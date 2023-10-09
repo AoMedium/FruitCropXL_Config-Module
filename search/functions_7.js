@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['keyconflictexception_170',['KeyConflictException',['../classfspm_1_1util_1_1exceptions_1_1KeyConflictException_aecf8737e216750239cebebc990da46a8.html#aecf8737e216750239cebebc990da46a8',1,'fspm.util.exceptions.KeyConflictException.KeyConflictException(String name)'],['../classfspm_1_1util_1_1exceptions_1_1KeyConflictException_a6eb880bf3dd1d7e7d63740ee85b6c14e.html#a6eb880bf3dd1d7e7d63740ee85b6c14e',1,'fspm.util.exceptions.KeyConflictException.KeyConflictException(String name, String location)']]],
+  ['keynotfoundexception_171',['KeyNotFoundException',['../classfspm_1_1util_1_1exceptions_1_1KeyNotFoundException_a721c3ae2012f12b34a3440d69ed025f8.html#a721c3ae2012f12b34a3440d69ed025f8',1,'fspm.util.exceptions.KeyNotFoundException.KeyNotFoundException(String name)'],['../classfspm_1_1util_1_1exceptions_1_1KeyNotFoundException_a3cd9cdf5c376093f7ed45e57a92c6ec9.html#a3cd9cdf5c376093f7ed45e57a92c6ec9',1,'fspm.util.exceptions.KeyNotFoundException.KeyNotFoundException(String name, String msg)']]]
+];

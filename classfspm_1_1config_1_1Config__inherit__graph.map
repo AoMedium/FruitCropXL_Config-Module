@@ -1,0 +1,4 @@
+<map id="fspm.config.Config" name="fspm.config.Config">
+<area shape="rect" id="node1" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="5,409,253,1352"/>
+<area shape="rect" id="node2" href="$interfacefspm_1_1config_1_1params_1_1ParamAccessor.html" title="Blueprint for all classes that handles getting and setting of parameters." alt="" coords="15,5,244,361"/>
+</map>

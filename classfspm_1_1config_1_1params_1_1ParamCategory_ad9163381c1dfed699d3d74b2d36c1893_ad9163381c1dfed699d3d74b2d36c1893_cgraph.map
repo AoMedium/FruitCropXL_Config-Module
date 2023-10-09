@@ -1,0 +1,5 @@
+<map id="fspm.config.params.ParamCategory.getDouble" name="fspm.config.params.ParamCategory.getDouble">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1ParamCategory_aa2e79c693bd5784e3397c328d6363ba9.html#aa2e79c693bd5784e3397c328d6363ba9" title="Helper method to get the parameter of a given key, if it is an instance of the Parameter type class p..." alt="" coords="493,5,689,47"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1ParamCategory_a9df71240a840aa7875fdd8834c4cdbde.html#a9df71240a840aa7875fdd8834c4cdbde" title="Check and return if is NullParam." alt="" coords="249,35,445,76"/>
+</map>
