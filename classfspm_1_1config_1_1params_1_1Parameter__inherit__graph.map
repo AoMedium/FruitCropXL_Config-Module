@@ -1,9 +1,4 @@
 <map id="fspm.config.params.Parameter" name="fspm.config.params.Parameter">
-<area shape="rect" id="node1" title="Parameter represents variables that can be stored using Java data types or other user&#45;defined types." alt="" coords="524,5,747,97"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1type_1_1ArrayParam.html" title=" " alt="" coords="5,153,199,303"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1type_1_1BooleanParam.html" title="Concrete Parameter implementation for booleans." alt="" coords="223,145,411,311"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1params_1_1type_1_1DoubleParam.html" title="Concrete Parameter implementation for doubles." alt="" coords="435,145,623,311"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1params_1_1type_1_1IntegerParam.html" title="Concrete Parameter implementation for integers." alt="" coords="647,153,839,303"/>
-<area shape="rect" id="node6" href="$classfspm_1_1config_1_1params_1_1type_1_1NullParam.html" title="Concrete Parameter implementation for Null parameters representing a null value JsonNode." alt="" coords="864,167,1052,289"/>
-<area shape="rect" id="node7" href="$classfspm_1_1config_1_1params_1_1type_1_1StringParam.html" title="Concrete Parameter implementation for Strings." alt="" coords="1076,145,1264,311"/>
+<area shape="rect" id="node1" title="Parameter represents variables that can be stored using Java data types or other user&#45;defined types." alt="" coords="5,145,228,399"/>
+<area shape="rect" id="node2" href="$classfspm_1_1util_1_1KeyElement.html" title=" " alt="" coords="35,5,198,97"/>
 </map>

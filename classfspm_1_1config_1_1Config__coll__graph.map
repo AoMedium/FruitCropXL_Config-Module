@@ -1,12 +1,5 @@
 <map id="fspm.config.Config" name="fspm.config.Config">
-<area shape="rect" id="node1" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="537,1251,777,2120"/>
-<area shape="rect" id="node2" href="$interfacefspm_1_1config_1_1params_1_1ParamAccessor.html" title="Blueprint for all classes that handles getting and setting of parameters." alt="" coords="5,160,235,516"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1ParamCategory.html" title="A ParamCategory stores Parameters that belong to a common category." alt="" coords="258,656,505,1188"/>
-<area shape="rect" id="node4" title=" " alt="" coords="527,299,587,377"/>
-<area shape="rect" id="node8" href="$classfspm_1_1config_1_1params_1_1ParamGroup.html" title="Parameter configuration class for storing parameter categories." alt="" coords="529,817,786,1027"/>
-<area shape="rect" id="node5" title=" " alt="" coords="259,292,503,384"/>
-<area shape="rect" id="node6" title=" " alt="" coords="656,5,707,83"/>
-<area shape="rect" id="node7" title=" " alt="" coords="763,540,1007,632"/>
-<area shape="rect" id="node9" title=" " alt="" coords="611,292,855,384"/>
-<area shape="rect" id="node10" title=" " alt="" coords="956,883,1031,961"/>
+<area shape="rect" id="node1" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="77,315,219,509"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,160,291,252"/>
+<area shape="rect" id="node3" title=" " alt="" coords="123,5,173,83"/>
 </map>

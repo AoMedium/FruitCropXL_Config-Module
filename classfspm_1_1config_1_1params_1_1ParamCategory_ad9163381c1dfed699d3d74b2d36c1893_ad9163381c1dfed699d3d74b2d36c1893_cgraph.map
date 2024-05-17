@@ -1,5 +1,7 @@
 <map id="fspm.config.params.ParamCategory.getDouble" name="fspm.config.params.ParamCategory.getDouble">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,201,47"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1ParamCategory_aa2e79c693bd5784e3397c328d6363ba9.html#aa2e79c693bd5784e3397c328d6363ba9" title="Helper method to get the parameter of a given key, if it is an instance of the Parameter type class p..." alt="" coords="493,5,689,47"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1ParamCategory_a9df71240a840aa7875fdd8834c4cdbde.html#a9df71240a840aa7875fdd8834c4cdbde" title="Check and return if is NullParam." alt="" coords="249,35,445,76"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,201,80"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1Parameter_ad0857a4bb8cd3c4d354682f2e90bf362.html#ad0857a4bb8cd3c4d354682f2e90bf362" title=" " alt="" coords="249,5,489,47"/>
+<area shape="rect" id="node4" href="$classfspm_1_1config_1_1params_1_1ParamCategory_ac81e6b98fa48fc3426eed6f60e81da5b.html#ac81e6b98fa48fc3426eed6f60e81da5b" title="Get generic Parameter with the given key." alt="" coords="271,71,467,112"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1Parameter_a2fd72835a908354fea23f92e3f3b1800.html#a2fd72835a908354fea23f92e3f3b1800" title=" " alt="" coords="537,13,800,39"/>
+<area shape="rect" id="node5" href="$classfspm_1_1util_1_1KeyElement_a653aac67328f98c1201974736671fe0d.html#a653aac67328f98c1201974736671fe0d" title=" " alt="" coords="563,78,774,105"/>
 </map>

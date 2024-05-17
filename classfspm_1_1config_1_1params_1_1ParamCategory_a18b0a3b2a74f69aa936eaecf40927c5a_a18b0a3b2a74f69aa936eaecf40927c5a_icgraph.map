@@ -1,10 +1,9 @@
 <map id="fspm.config.params.ParamCategory.getString" name="fspm.config.params.ParamCategory.getString">
-<area shape="rect" id="node1" title=" " alt="" coords="800,93,996,135"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1Config_a3be13c8aecc91ab1cd95692ec65df305.html#a3be13c8aecc91ab1cd95692ec65df305" title=" " alt="" coords="545,101,752,127"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1ConfigTest_a586a428c43c00668f273133c28ddd635.html#a586a428c43c00668f273133c28ddd635" title=" " alt="" coords="280,5,497,47"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1Config_af23cb05ac69ea93fa48ed533f677ff1d.html#af23cb05ac69ea93fa48ed533f677ff1d" title=" " alt="" coords="285,71,492,98"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1ConfigTest_a09a38b5eee655b088e4e144df5ad5a85.html#a09a38b5eee655b088e4e144df5ad5a85" title=" " alt="" coords="289,123,488,164"/>
-<area shape="rect" id="node7" href="$classfspm_1_1config_1_1ConfigTest_aa9e41d045f61b82c742edbd88424aff3.html#aa9e41d045f61b82c742edbd88424aff3" title=" " alt="" coords="289,188,488,229"/>
-<area shape="rect" id="node6" href="$classfspm_1_1config_1_1ConfigTest_aacca92fc43946c5a3d4613a1085d59f9.html#aacca92fc43946c5a3d4613a1085d59f9" title=" " alt="" coords="5,130,232,157"/>
-<area shape="rect" id="node8" href="$classfspm_1_1config_1_1ConfigTest_a0ace3587e0462f748617e279d4d0c659.html#a0ace3587e0462f748617e279d4d0c659" title=" " alt="" coords="19,188,218,229"/>
+<area shape="rect" id="node1" title=" " alt="" coords="551,75,747,116"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a17938746666bf49fe2633a4e9d24cd4b.html#a17938746666bf49fe2633a4e9d24cd4b" title=" " alt="" coords="284,104,503,145"/>
+<area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a1ebf711e67df23a453e0ce50bc63b482.html#a1ebf711e67df23a453e0ce50bc63b482" title=" " alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a04a8bf1882e75d9f01107dc56b18452e.html#a04a8bf1882e75d9f01107dc56b18452e" title=" " alt="" coords="11,71,230,112"/>
+<area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a8a856d084a9f7cc18dd02285f8bff9b4.html#a8a856d084a9f7cc18dd02285f8bff9b4" title=" " alt="" coords="7,136,235,177"/>
+<area shape="rect" id="node6" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_add14e7bad047c7089ed8e08680f4c2cf.html#add14e7bad047c7089ed8e08680f4c2cf" title=" " alt="" coords="7,201,235,243"/>
+<area shape="rect" id="node7" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a6ff9e514f8013564285ff10fa6a0af6f.html#a6ff9e514f8013564285ff10fa6a0af6f" title=" " alt="" coords="7,267,235,308"/>
 </map>

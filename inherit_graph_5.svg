@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamGroup.html" target="_top" xlink:title="Parameter configuration class for storing parameter categories.">
+<g id="a_node1"><a xlink:href="interfacefspm_1_1config_1_1params_1_1ParamAccessor.html" target="_top" xlink:title="Blueprint for all classes that handles getting and setting of parameters.">
 <polygon fill="none" stroke="black" points="0,-0.5 0,-30.5 147,-30.5 147,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
-<text text-anchor="middle" x="73.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Group</text>
+<text text-anchor="middle" x="73.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Accessor</text>
 </a>
 </g>
 </g>

@@ -1,7 +1,6 @@
 <map id="RuntimeException" name="RuntimeException">
-<area shape="rect" id="node1" title=" " alt="" coords="345,5,486,83"/>
-<area shape="rect" id="node2" href="$classfspm_1_1util_1_1exceptions_1_1KeyConflictException.html" title=" " alt="" coords="5,131,188,281"/>
-<area shape="rect" id="node3" href="$classfspm_1_1util_1_1exceptions_1_1KeyNotFoundException.html" title=" " alt="" coords="213,138,402,274"/>
-<area shape="rect" id="node4" href="$classfspm_1_1util_1_1exceptions_1_1TypeNotFoundException.html" title=" " alt="" coords="427,153,620,259"/>
-<area shape="rect" id="node5" href="$classfspm_1_1util_1_1exceptions_1_1UnsupportedException.html" title=" " alt="" coords="645,153,887,259"/>
+<area shape="rect" id="node1" title=" " alt="" coords="241,5,383,83"/>
+<area shape="rect" id="node2" href="$classfspm_1_1util_1_1exceptions_1_1KeyConflictException.html" title=" " alt="" coords="5,131,189,237"/>
+<area shape="rect" id="node3" href="$classfspm_1_1util_1_1exceptions_1_1KeyNotFoundException.html" title=" " alt="" coords="213,131,411,237"/>
+<area shape="rect" id="node4" href="$classfspm_1_1util_1_1exceptions_1_1TypeNotFoundException.html" title=" " alt="" coords="435,138,637,230"/>
 </map>

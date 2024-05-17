@@ -1,7 +1,7 @@
 <map id="fspm.config.params.ParamCategory" name="fspm.config.params.ParamCategory">
-<area shape="rect" id="node1" title="A ParamCategory stores Parameters that belong to a common category." alt="" coords="166,579,413,1111"/>
-<area shape="rect" id="node2" href="$interfacefspm_1_1config_1_1params_1_1ParamAccessor.html" title="Blueprint for all classes that handles getting and setting of parameters." alt="" coords="5,160,235,516"/>
-<area shape="rect" id="node3" title=" " alt="" coords="259,299,319,377"/>
-<area shape="rect" id="node4" title=" " alt="" coords="343,292,587,384"/>
-<area shape="rect" id="node5" title=" " alt="" coords="440,5,491,83"/>
+<area shape="rect" id="node1" title="A ParamCategory stores Parameters that belong to a common category." alt="" coords="102,315,298,612"/>
+<area shape="rect" id="node2" href="$classfspm_1_1util_1_1KeyElement.html" title=" " alt="" coords="5,160,168,252"/>
+<area shape="rect" id="node3" title=" " alt="" coords="57,5,117,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,160,437,252"/>
+<area shape="rect" id="node5" title=" " alt="" coords="289,5,340,83"/>
 </map>

@@ -1,14 +1,13 @@
 var searchData=
 [
-  ['categories_9',['categories',['../classfspm_1_1config_1_1params_1_1ParamGroup_a50b0c0a9bc81254d98d1f370d1ed138c.html#a50b0c0a9bc81254d98d1f370d1ed138c',1,'fspm::config::params::ParamGroup']]],
-  ['categorycontext_10',['categoryContext',['../classfspm_1_1config_1_1Config_a671a0bc4f49c24fb4036d7dff5a75385.html#a671a0bc4f49c24fb4036d7dff5a75385',1,'fspm::config::Config']]],
-  ['checkcontextsexists_11',['checkContextsExists',['../classfspm_1_1config_1_1Config_abce61aaf26cf14b4ae2204ff22c27b57.html#abce61aaf26cf14b4ae2204ff22c27b57',1,'fspm::config::Config']]],
-  ['checkgroupcontextexists_12',['checkGroupContextExists',['../classfspm_1_1config_1_1Config_a3024c037d3ee426c410cb46ee2cd3497.html#a3024c037d3ee426c410cb46ee2cd3497',1,'fspm::config::Config']]],
-  ['config_13',['CONFIG',['../classfspm_1_1config_1_1ConfigTest_a0d420ec9f7dbbcc264df44ea1047295d.html#a0d420ec9f7dbbcc264df44ea1047295d',1,'fspm::config::ConfigTest']]],
-  ['config_14',['Config',['../classfspm_1_1config_1_1Config_a0884d2ba03a515e43bfcdced93fd31ba.html#a0884d2ba03a515e43bfcdced93fd31ba',1,'fspm.config.Config.Config()'],['../classfspm_1_1config_1_1Config.html',1,'fspm.config.Config']]],
-  ['config_2ejava_15',['Config.java',['../Config_8java.html',1,'']]],
-  ['configadapter_16',['ConfigAdapter',['../classfspm_1_1config_1_1adapters_1_1ConfigAdapter_a3e42c25b7ad31a27ec4f1c4f1e41c4e3.html#a3e42c25b7ad31a27ec4f1c4f1e41c4e3',1,'fspm.config.adapters.ConfigAdapter.ConfigAdapter()'],['../classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html',1,'fspm.config.adapters.ConfigAdapter']]],
-  ['configadapter_2ejava_17',['ConfigAdapter.java',['../ConfigAdapter_8java.html',1,'']]],
-  ['configtest_18',['ConfigTest',['../classfspm_1_1config_1_1ConfigTest.html',1,'fspm::config']]],
-  ['configtest_2ejava_19',['ConfigTest.java',['../ConfigTest_8java.html',1,'']]]
+  ['dictionaryhandler_31',['DictionaryHandler',['../classfspm_1_1config_1_1adapters_1_1handlers_1_1DictionaryHandler.html',1,'fspm::config::adapters::handlers']]],
+  ['dictionaryhandler_2ejava_32',['DictionaryHandler.java',['../DictionaryHandler_8java.html',1,'']]],
+  ['documentcategorynamegroup_33',['DocumentCategoryNameGroup',['../classfspm_1_1config_1_1params_1_1group_1_1DocumentCategoryNameGroup_ae58b03e12c6dabd2a703e8290b106192.html#ae58b03e12c6dabd2a703e8290b106192',1,'fspm.config.params.group.DocumentCategoryNameGroup.DocumentCategoryNameGroup()'],['../classfspm_1_1config_1_1params_1_1group_1_1DocumentCategoryNameGroup.html',1,'fspm.config.params.group.DocumentCategoryNameGroup']]],
+  ['documentcategorynamegroup_2ejava_34',['DocumentCategoryNameGroup.java',['../DocumentCategoryNameGroup_8java.html',1,'']]],
+  ['documentcategorynamehandler_35',['DocumentCategoryNameHandler',['../classfspm_1_1config_1_1adapters_1_1handlers_1_1DocumentCategoryNameHandler.html',1,'fspm::config::adapters::handlers']]],
+  ['documentcategorynamehandler_2ejava_36',['DocumentCategoryNameHandler.java',['../DocumentCategoryNameHandler_8java.html',1,'']]],
+  ['documenthybridcategorynamegroup_37',['DocumentHybridCategoryNameGroup',['../classfspm_1_1config_1_1params_1_1group_1_1DocumentHybridCategoryNameGroup_af2128628d0919ff4d33b2c776ac7542c.html#af2128628d0919ff4d33b2c776ac7542c',1,'fspm.config.params.group.DocumentHybridCategoryNameGroup.DocumentHybridCategoryNameGroup()'],['../classfspm_1_1config_1_1params_1_1group_1_1DocumentHybridCategoryNameGroup.html',1,'fspm.config.params.group.DocumentHybridCategoryNameGroup']]],
+  ['documenthybridcategorynamegroup_2ejava_38',['DocumentHybridCategoryNameGroup.java',['../DocumentHybridCategoryNameGroup_8java.html',1,'']]],
+  ['documenthybridcategorynamehandler_39',['DocumentHybridCategoryNameHandler',['../classfspm_1_1config_1_1adapters_1_1handlers_1_1DocumentHybridCategoryNameHandler.html',1,'fspm::config::adapters::handlers']]],
+  ['documenthybridcategorynamehandler_2ejava_40',['DocumentHybridCategoryNameHandler.java',['../DocumentHybridCategoryNameHandler_8java.html',1,'']]]
 ];

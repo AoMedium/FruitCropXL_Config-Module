@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classfspm_1_1config_1_1params_1_1ParamFactory.html" title="ParamFactory creates instances of concrete Parameter implementations depending on the data type recei..." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node1" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1Hierarchy.html" title=" " alt="" coords="5,39,224,80"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy.html" title=" " alt="" coords="272,5,491,47"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1TableHierarchy.html" title=" " alt="" coords="272,71,491,112"/>
 </map>

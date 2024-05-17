@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Functional Structural Plant Model Modules", "index.html", [
+  [ "Fruit Crop Model - Config Module", "index.html", [
     [ "Packages", "namespaces.html", [
       [ "Packages", "namespaces.html", "namespaces_dup" ]
     ] ],
@@ -46,7 +46,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"ArrayParam_8java.html"
+"ArrayTest_8java.html",
+"namespacefspm_1_1config_1_1tests_1_1ParamAccess.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
