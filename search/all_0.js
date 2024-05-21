@@ -1,11 +1,11 @@
 var searchData=
 [
   ['add_0',['add',['../classfspm_1_1config_1_1params_1_1ParamTable_a399e39364c1efcbbe169e6373e722c2f.html#a399e39364c1efcbbe169e6373e722c2f',1,'fspm::config::params::ParamTable']]],
-  ['addcategory_1',['addCategory',['../classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a1749c4a4dba84b42cc2abdab39aa0e3e.html#a1749c4a4dba84b42cc2abdab39aa0e3e',1,'fspm::config::params::hierarchy::CategoryHierarchy']]],
+  ['addcategory_1',['addCategory',['../classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a848e878d6fbdff21c30ac6cfd8336ecb.html#a848e878d6fbdff21c30ac6cfd8336ecb',1,'fspm::config::params::structures::CategoryStore']]],
   ['addgroup_2',['addGroup',['../classfspm_1_1config_1_1Config_a42612499256e159a84e5244fcae25b31.html#a42612499256e159a84e5244fcae25b31',1,'fspm.config.Config.addGroup(ConfigAdapter adapter)'],['../classfspm_1_1config_1_1Config_a381d7c4f91bba726f1dc19d493fd3ef8.html#a381d7c4f91bba726f1dc19d493fd3ef8',1,'fspm.config.Config.addGroup(String key, ConfigAdapter adapter)'],['../classfspm_1_1config_1_1Config_a992ffba1170a5e59514f9adb3d1197a9.html#a992ffba1170a5e59514f9adb3d1197a9',1,'fspm.config.Config.addGroup(ParamGroup group)'],['../classfspm_1_1config_1_1Config_a76895cbfcee09cac83ec0581164ef29a.html#a76895cbfcee09cac83ec0581164ef29a',1,'fspm.config.Config.addGroup(String key, ParamGroup group)']]],
-  ['addgroups_3',['addGroups',['../classfspm_1_1config_1_1tests_1_1ParamAccessTestSuite_ae63569c144c7462a35948dda27f2228d.html#ae63569c144c7462a35948dda27f2228d',1,'fspm::config::tests::ParamAccessTestSuite']]],
+  ['addgroups_3',['addGroups',['../classfspm_1_1config_1_1ConfigTestSuite_aa88a76c679af01aa7f7a1f61c22f85aa.html#aa88a76c679af01aa7f7a1f61c22f85aa',1,'fspm::config::ConfigTestSuite']]],
   ['addparameter_4',['addParameter',['../classfspm_1_1config_1_1params_1_1ParamCategory_a142ca4734877ac3625b6b95d8b81055a.html#a142ca4734877ac3625b6b95d8b81055a',1,'fspm::config::params::ParamCategory']]],
-  ['addtable_5',['addTable',['../classfspm_1_1config_1_1params_1_1hierarchy_1_1TableHierarchy_abc2eae14dccf78994e72a387599192dd.html#abc2eae14dccf78994e72a387599192dd',1,'fspm::config::params::hierarchy::TableHierarchy']]],
+  ['addtable_5',['addTable',['../classfspm_1_1config_1_1params_1_1structures_1_1TableStore_a182aacc9e4bd42a1b80c0209b92f1ed2.html#a182aacc9e4bd42a1b80c0209b92f1ed2',1,'fspm::config::params::structures::TableStore']]],
   ['arraytest_6',['ArrayTest',['../classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest.html',1,'fspm::config::tests::ParamAccess']]],
   ['arraytest_2ejava_7',['ArrayTest.java',['../ArrayTest_8java.html',1,'']]],
   ['asarray_8',['asArray',['../classfspm_1_1config_1_1params_1_1Parameter_a2dced470a20701940042f6dacad7f78e.html#a2dced470a20701940042f6dacad7f78e',1,'fspm::config::params::Parameter']]],

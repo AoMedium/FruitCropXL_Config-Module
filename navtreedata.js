@@ -46,8 +46,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"ArrayTest_8java.html",
-"namespacefspm_1_1config_1_1tests_1_1ParamAccess.html"
+"",
+"namespacefspm_1_1config_1_1tests_1_1Structure.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

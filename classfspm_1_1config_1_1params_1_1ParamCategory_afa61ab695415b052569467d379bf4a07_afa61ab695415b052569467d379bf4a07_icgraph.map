@@ -1,8 +1,8 @@
 <map id="fspm.config.params.ParamCategory.getBoolean" name="fspm.config.params.ParamCategory.getBoolean">
-<area shape="rect" id="node1" title=" " alt="" coords="584,41,780,83"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a919331cbea40c893fc991b895e65797c.html#a919331cbea40c893fc991b895e65797c" title=" " alt="" coords="316,71,536,112"/>
+<area shape="rect" id="node1" title=" " alt="" coords="588,41,784,83"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_adbcea0df7b9ee09a9981f4740c7400a6.html#adbcea0df7b9ee09a9981f4740c7400a6" title=" " alt="" coords="316,71,540,112"/>
 <area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a1ebf711e67df23a453e0ce50bc63b482.html#a1ebf711e67df23a453e0ce50bc63b482" title=" " alt="" coords="21,5,252,47"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a6591eafe8a9348743ec6fad43e676919.html#a6591eafe8a9348743ec6fad43e676919" title=" " alt="" coords="27,71,247,112"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a08b4f8afb977e4744fe02d17ad75f8af.html#a08b4f8afb977e4744fe02d17ad75f8af" title=" " alt="" coords="25,71,249,112"/>
 <area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a4612b4a76c0c5eb3a4d9fac2c0fa2bf8.html#a4612b4a76c0c5eb3a4d9fac2c0fa2bf8" title=" " alt="" coords="5,136,268,177"/>
 <area shape="rect" id="node6" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a8a856d084a9f7cc18dd02285f8bff9b4.html#a8a856d084a9f7cc18dd02285f8bff9b4" title=" " alt="" coords="23,201,251,243"/>
 </map>

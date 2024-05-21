@@ -11,12 +11,12 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="File reader to parse JSON config files to Config.">
+<g id="a_node1"><a xlink:title="File reader to parse JSON config files to fspm.config.Config.">
 <polygon fill="#bfbfbf" stroke="black" points="5,-0.5 5,-90.5 148,-90.5 148,-0.5 5,-0.5"/>
 <text text-anchor="start" x="13" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.adapters.Json</text>
 <text text-anchor="middle" x="76.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileReader</text>
 <polyline fill="none" stroke="black" points="5,-60.5 148,-60.5 "/>
-<text text-anchor="middle" x="76.5" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="13" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ METACLASS_HEADER</text>
 <polyline fill="none" stroke="black" points="5,-41.5 148,-41.5 "/>
 <text text-anchor="start" x="13" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ JsonFileReader()</text>
 <text text-anchor="start" x="13" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parse()</text>
@@ -27,7 +27,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" target="_top" xlink:title="Defines the required methods adapters must implement to be compatible with Config.">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" target="_top" xlink:title="Defines the required methods adapters must implement to be compatible with fspm.config....">
 <polygon fill="none" stroke="black" points="0,-127.5 0,-206.5 153,-206.5 153,-127.5 0,-127.5"/>
 <text text-anchor="start" x="8" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.adapters.Config</text>
 <text text-anchor="middle" x="76.5" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00">Adapter</text>

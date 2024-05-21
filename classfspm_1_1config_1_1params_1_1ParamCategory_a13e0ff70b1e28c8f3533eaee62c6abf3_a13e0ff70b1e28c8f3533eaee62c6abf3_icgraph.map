@@ -1,4 +1,5 @@
 <map id="fspm.config.params.ParamCategory.getBooleanArray" name="fspm.config.params.ParamCategory.getBooleanArray">
-<area shape="rect" id="node1" title=" " alt="" coords="308,5,504,47"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a7970892fcc03921063891466f26ddbb0.html#a7970892fcc03921063891466f26ddbb0" title=" " alt="" coords="5,5,260,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="564,5,760,47"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_aca9abcc056b90dadb0c476b829f77f92.html#aca9abcc056b90dadb0c476b829f77f92" title=" " alt="" coords="288,5,516,47"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_aa473b3f7e16319b82590bc9558a94bd4.html#aa473b3f7e16319b82590bc9558a94bd4" title=" " alt="" coords="5,5,240,47"/>
 </map>

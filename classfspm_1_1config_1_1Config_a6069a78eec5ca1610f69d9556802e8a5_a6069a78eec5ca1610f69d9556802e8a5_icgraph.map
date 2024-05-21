@@ -1,5 +1,5 @@
 <map id="fspm.config.Config.reset" name="fspm.config.Config.reset">
 <area shape="rect" id="node1" title=" " alt="" coords="512,5,692,32"/>
 <area shape="rect" id="node2" href="$classfspm_1_1config_1_1Config_a0884d2ba03a515e43bfcdced93fd31ba.html#a0884d2ba03a515e43bfcdced93fd31ba" title="Class constructor." alt="" coords="276,5,464,32"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1Config_a9cbd7ea0f03a7f7b0718542f1ea28081.html#a9cbd7ea0f03a7f7b0718542f1ea28081" title="Gets the singleton instance of the simulation Config." alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1Config_a9cbd7ea0f03a7f7b0718542f1ea28081.html#a9cbd7ea0f03a7f7b0718542f1ea28081" title="Gets the singleton instance of the simulation fspm.config.Config." alt="" coords="5,5,228,32"/>
 </map>

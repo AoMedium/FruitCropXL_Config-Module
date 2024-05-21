@@ -1,8 +1,5 @@
 <map id="fspm.config.Config.addGroup" name="fspm.config.Config.addGroup">
-<area shape="rect" id="node1" title=" " alt="" coords="553,49,764,75"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1Config_a381d7c4f91bba726f1dc19d493fd3ef8.html#a381d7c4f91bba726f1dc19d493fd3ef8" title=" " alt="" coords="288,19,499,46"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1tests_1_1ParamAccessTestSuite_ae63569c144c7462a35948dda27f2228d.html#ae63569c144c7462a35948dda27f2228d" title=" " alt="" coords="281,71,505,112"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1Hierarchy_1_1TableHierarchyTest_a704bbb652137e7f0ee7cbcbfda4371ba.html#a704bbb652137e7f0ee7cbcbfda4371ba" title=" " alt="" coords="18,5,221,47"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_a60540cf6cf3766703ba581adcd6f3e08.html#a60540cf6cf3766703ba581adcd6f3e08" title=" " alt="" coords="5,71,233,112"/>
-<area shape="rect" id="node6" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a9cc2fe2607fe05386ecabdd4fbab6480.html#a9cc2fe2607fe05386ecabdd4fbab6480" title=" " alt="" coords="5,136,233,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="284,35,495,61"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1Config_a381d7c4f91bba726f1dc19d493fd3ef8.html#a381d7c4f91bba726f1dc19d493fd3ef8" title=" " alt="" coords="15,5,226,32"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1ConfigTestSuite_aa88a76c679af01aa7f7a1f61c22f85aa.html#aa88a76c679af01aa7f7a1f61c22f85aa" title="Note: does not work when running tests in parallel." alt="" coords="5,57,236,98"/>
 </map>

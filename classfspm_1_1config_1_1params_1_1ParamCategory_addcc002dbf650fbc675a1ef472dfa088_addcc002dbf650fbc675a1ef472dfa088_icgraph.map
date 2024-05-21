@@ -1,8 +1,7 @@
 <map id="fspm.config.params.ParamCategory.getArray" name="fspm.config.params.ParamCategory.getArray">
-<area shape="rect" id="node1" title=" " alt="" coords="555,104,751,145"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_acac58ead81a0e7ce29fc33e0ccfb95b4.html#acac58ead81a0e7ce29fc33e0ccfb95b4" title=" " alt="" coords="288,104,507,145"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_ad3b6d28c086ea8df8940cbfd35a72022.html#ad3b6d28c086ea8df8940cbfd35a72022" title=" " alt="" coords="13,5,232,47"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_a7f034099689706d2e263f1d7d04b0f9a.html#a7f034099689706d2e263f1d7d04b0f9a" title=" " alt="" coords="9,71,237,112"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_aa473b3f7e16319b82590bc9558a94bd4.html#aa473b3f7e16319b82590bc9558a94bd4" title=" " alt="" coords="5,136,240,177"/>
-<area shape="rect" id="node6" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_aeb939f25bb8cc9702e5a4ad8d2cdbc2c.html#aeb939f25bb8cc9702e5a4ad8d2cdbc2c" title=" " alt="" coords="9,201,237,243"/>
+<area shape="rect" id="node1" title=" " alt="" coords="553,71,749,112"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_ac2aa1d4fec9c78f0e9433016759c39e0.html#ac2aa1d4fec9c78f0e9433016759c39e0" title=" " alt="" coords="281,71,505,112"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a4131c35940f4f94adc66a52f714c31bb.html#a4131c35940f4f94adc66a52f714c31bb" title=" " alt="" coords="7,5,231,47"/>
+<area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_a7f034099689706d2e263f1d7d04b0f9a.html#a7f034099689706d2e263f1d7d04b0f9a" title=" " alt="" coords="5,71,233,112"/>
+<area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_aeb939f25bb8cc9702e5a4ad8d2cdbc2c.html#aeb939f25bb8cc9702e5a4ad8d2cdbc2c" title=" " alt="" coords="5,136,233,177"/>
 </map>

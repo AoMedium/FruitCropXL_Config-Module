@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 598;
+var viewWidth = 790;
 var viewHeight = 39;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="410,-0.5 410,-30.5 590,-30.5 590,-0.5 410,-0.5"/>
-<text text-anchor="start" x="418" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter.as</text>
-<text text-anchor="middle" x="500" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">BooleanArray</text>
+<polygon fill="#bfbfbf" stroke="black" points="602,-0.5 602,-30.5 782,-30.5 782,-0.5 602,-0.5"/>
+<text text-anchor="start" x="610" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter.as</text>
+<text text-anchor="middle" x="692" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">BooleanArray</text>
 </a>
 </g>
 </g>
@@ -68,33 +68,49 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory_a13e0ff70b1e28c8f3533eaee62c6abf3.html#a13e0ff70b1e28c8f3533eaee62c6abf3" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="227,-0.5 227,-30.5 374,-30.5 374,-0.5 227,-0.5"/>
-<text text-anchor="start" x="235" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
-<text text-anchor="middle" x="300.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category.getBooleanArray</text>
+<polygon fill="none" stroke="black" points="419,-0.5 419,-30.5 566,-30.5 566,-0.5 419,-0.5"/>
+<text text-anchor="start" x="427" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
+<text text-anchor="middle" x="492.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category.getBooleanArray</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M399.66,-15.5C391.03,-15.5 382.41,-15.5 374.05,-15.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="399.78,-19 409.78,-15.5 399.78,-12 399.78,-19"/>
+<path fill="none" stroke="midnightblue" d="M591.66,-15.5C583.03,-15.5 574.41,-15.5 566.05,-15.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="591.78,-19 601.78,-15.5 591.78,-12 591.78,-19"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a7970892fcc03921063891466f26ddbb0.html#a7970892fcc03921063891466f26ddbb0" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="0,-0.5 0,-30.5 191,-30.5 191,-0.5 0,-0.5"/>
-<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.hierarchy.</text>
-<text text-anchor="middle" x="95.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryHierarchy.getBooleanArray</text>
+<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_aca9abcc056b90dadb0c476b829f77f92.html#aca9abcc056b90dadb0c476b829f77f92" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="212,-0.5 212,-30.5 383,-30.5 383,-0.5 212,-0.5"/>
+<text text-anchor="start" x="220" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
+<text text-anchor="middle" x="297.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore.getBooleanArray</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M216.6,-15.5C208.17,-15.5 199.56,-15.5 191.01,-15.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="216.79,-19 226.79,-15.5 216.79,-12 216.79,-19"/>
+<path fill="none" stroke="midnightblue" d="M408.6,-15.5C400.16,-15.5 391.58,-15.5 383.13,-15.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="408.81,-19 418.81,-15.5 408.81,-12 408.81,-19"/>
+</g>
+<!-- Node4 -->
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_aa473b3f7e16319b82590bc9558a94bd4.html#aa473b3f7e16319b82590bc9558a94bd4" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="0,-0.5 0,-30.5 176,-30.5 176,-0.5 0,-0.5"/>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.tests.ParamAccess.</text>
+<text text-anchor="middle" x="88" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ArrayTest.testIncorrectArrayType</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node4 -->
+<g id="edge3" class="edge">
+<title>Node3&#45;&gt;Node4</title>
+<path fill="none" stroke="midnightblue" d="M201.53,-15.5C193.06,-15.5 184.52,-15.5 176.12,-15.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="201.8,-19 211.8,-15.5 201.8,-12 201.8,-19"/>
 </g>
 </g>
 </svg>

@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="classfspm_1_1config_1_1tests_1_1HierarchyTestSuite.html" target="_top" xlink:title=" ">
+<g id="a_node1"><a xlink:href="classfspm_1_1config_1_1tests_1_1Structure_1_1GroupTypeTest.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="0,-0.5 0,-30.5 151,-30.5 151,-0.5 0,-0.5"/>
-<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.tests.Hierarchy</text>
-<text text-anchor="middle" x="75.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">TestSuite</text>
+<text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.tests.Structure.</text>
+<text text-anchor="middle" x="75.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">GroupTypeTest</text>
 </a>
 </g>
 </g>

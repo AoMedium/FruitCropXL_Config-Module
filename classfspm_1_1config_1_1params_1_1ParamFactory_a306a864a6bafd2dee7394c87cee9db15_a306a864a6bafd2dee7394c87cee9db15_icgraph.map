@@ -1,7 +1,4 @@
 <map id="fspm.config.params.ParamFactory.createParameter" name="fspm.config.params.ParamFactory.createParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="553,71,749,112"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1tests_1_1ParamAccessTestSuite_ae63569c144c7462a35948dda27f2228d.html#ae63569c144c7462a35948dda27f2228d" title=" " alt="" coords="281,71,505,112"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1tests_1_1Hierarchy_1_1TableHierarchyTest_a704bbb652137e7f0ee7cbcbfda4371ba.html#a704bbb652137e7f0ee7cbcbfda4371ba" title=" " alt="" coords="18,5,221,47"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_a60540cf6cf3766703ba581adcd6f3e08.html#a60540cf6cf3766703ba581adcd6f3e08" title=" " alt="" coords="5,71,233,112"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a9cc2fe2607fe05386ecabdd4fbab6480.html#a9cc2fe2607fe05386ecabdd4fbab6480" title=" " alt="" coords="5,136,233,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="284,5,480,47"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1ConfigTestSuite_aa88a76c679af01aa7f7a1f61c22f85aa.html#aa88a76c679af01aa7f7a1f61c22f85aa" title="Note: does not work when running tests in parallel." alt="" coords="5,5,236,47"/>
 </map>

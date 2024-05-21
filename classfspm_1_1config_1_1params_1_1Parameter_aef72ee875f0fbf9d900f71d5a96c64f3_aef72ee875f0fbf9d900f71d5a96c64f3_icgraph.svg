@@ -46,7 +46,7 @@ if (edges && edges.length) {
         </defs>
 
 <script type="text/javascript">
-var viewWidth = 805;
+var viewWidth = 808;
 var viewHeight = 186;
 var sectionId = 'dynsection-1';
 </script>
@@ -58,9 +58,9 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="617,-96.5 617,-126.5 797,-126.5 797,-96.5 617,-96.5"/>
-<text text-anchor="start" x="625" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter.as</text>
-<text text-anchor="middle" x="707" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">Boolean</text>
+<polygon fill="#bfbfbf" stroke="black" points="620,-96.5 620,-126.5 800,-126.5 800,-96.5 620,-96.5"/>
+<text text-anchor="start" x="628" y="-114.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter.as</text>
+<text text-anchor="middle" x="710" y="-103.5" font-family="Helvetica,sans-Serif" font-size="10.00">Boolean</text>
 </a>
 </g>
 </g>
@@ -68,49 +68,49 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory_afa61ab695415b052569467d379bf4a07.html#afa61ab695415b052569467d379bf4a07" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="434,-121.5 434,-151.5 581,-151.5 581,-121.5 434,-121.5"/>
-<text text-anchor="start" x="442" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
-<text text-anchor="middle" x="507.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category.getBoolean</text>
+<polygon fill="none" stroke="black" points="437,-121.5 437,-151.5 584,-151.5 584,-121.5 437,-121.5"/>
+<text text-anchor="start" x="445" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
+<text text-anchor="middle" x="510.5" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category.getBoolean</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M606.66,-124.07C598.03,-125.17 589.41,-126.26 581.05,-127.32"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="607.3,-127.52 616.78,-122.79 606.42,-120.58 607.3,-127.52"/>
+<path fill="none" stroke="midnightblue" d="M609.66,-124.07C601.03,-125.17 592.41,-126.26 584.05,-127.32"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="610.3,-127.52 619.78,-122.79 609.42,-120.58 610.3,-127.52"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
 <g id="a_node8"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamTable_a6c7f5fd02b6afd26ffa508198a382f06.html#a6c7f5fd02b6afd26ffa508198a382f06" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="434,-72.5 434,-102.5 581,-102.5 581,-72.5 434,-72.5"/>
-<text text-anchor="start" x="442" y="-90.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
-<text text-anchor="middle" x="507.5" y="-79.5" font-family="Helvetica,sans-Serif" font-size="10.00">Table.getBoolean</text>
+<polygon fill="none" stroke="black" points="437,-72.5 437,-102.5 584,-102.5 584,-72.5 437,-72.5"/>
+<text text-anchor="start" x="445" y="-90.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
+<text text-anchor="middle" x="510.5" y="-79.5" font-family="Helvetica,sans-Serif" font-size="10.00">Table.getBoolean</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M606.66,-99.43C598.03,-98.38 589.41,-97.33 581.05,-96.32"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="606.43,-102.93 616.78,-100.66 607.28,-95.98 606.43,-102.93"/>
+<path fill="none" stroke="midnightblue" d="M609.66,-99.43C601.03,-98.38 592.41,-97.33 584.05,-96.32"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="609.43,-102.93 619.78,-100.66 610.28,-95.98 609.43,-102.93"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a919331cbea40c893fc991b895e65797c.html#a919331cbea40c893fc991b895e65797c" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="233,-98.5 233,-128.5 398,-128.5 398,-98.5 233,-98.5"/>
-<text text-anchor="start" x="241" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.hierarchy.</text>
-<text text-anchor="middle" x="315.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryHierarchy.getBoolean</text>
+<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_adbcea0df7b9ee09a9981f4740c7400a6.html#adbcea0df7b9ee09a9981f4740c7400a6" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="233,-98.5 233,-128.5 401,-128.5 401,-98.5 233,-98.5"/>
+<text text-anchor="start" x="241" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
+<text text-anchor="middle" x="317" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore.getBoolean</text>
 </a>
 </g>
 </g>
 <!-- Node2&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node2&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M423.67,-126.47C415.25,-125.45 406.71,-124.42 398.3,-123.4"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="423.51,-129.98 433.86,-127.71 424.35,-123.03 423.51,-129.98"/>
+<path fill="none" stroke="midnightblue" d="M426.63,-126.55C418.2,-125.53 409.64,-124.51 401.21,-123.49"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="426.48,-130.05 436.83,-127.77 427.32,-123.1 426.48,-130.05"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -125,30 +125,30 @@ var sectionId = 'dynsection-1';
 <!-- Node2&#45;&gt;Node5 -->
 <g id="edge7" class="edge">
 <title>Node2&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M423.7,-141.79C354.2,-146.23 255.28,-152.55 185.03,-157.04"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="423.98,-145.28 433.74,-141.15 423.53,-138.29 423.98,-145.28"/>
+<path fill="none" stroke="midnightblue" d="M426.54,-141.76C356.33,-146.21 256.09,-152.57 185.13,-157.07"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="426.91,-145.24 436.67,-141.12 426.47,-138.26 426.91,-145.24"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_a6591eafe8a9348743ec6fad43e676919.html#a6591eafe8a9348743ec6fad43e676919" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="16,-98.5 16,-128.5 181,-128.5 181,-98.5 16,-98.5"/>
-<text text-anchor="start" x="24" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.hierarchy.</text>
-<text text-anchor="middle" x="98.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryHierarchy.getBoolean</text>
+<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a08b4f8afb977e4744fe02d17ad75f8af.html#a08b4f8afb977e4744fe02d17ad75f8af" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="14.5,-98.5 14.5,-128.5 182.5,-128.5 182.5,-98.5 14.5,-98.5"/>
+<text text-anchor="start" x="22.5" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
+<text text-anchor="middle" x="98.5" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore.getBoolean</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M222.87,-113.5C208.96,-113.5 194.7,-113.5 181.03,-113.5"/>
+<path fill="none" stroke="midnightblue" d="M222.8,-113.5C209.47,-113.5 195.84,-113.5 182.72,-113.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="222.91,-117 232.91,-113.5 222.91,-110 222.91,-117"/>
 </g>
 <!-- Node3&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M238.78,-130.76C214.82,-136.22 188.55,-142.21 165.34,-147.49"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="239.56,-134.17 248.53,-128.53 238,-127.34 239.56,-134.17"/>
+<path fill="none" stroke="midnightblue" d="M239.75,-130.76C215.62,-136.22 189.17,-142.21 165.8,-147.49"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="240.59,-134.16 249.57,-128.53 239.05,-127.33 240.59,-134.16"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
@@ -163,8 +163,8 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node3&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M238.78,-96.24C214.82,-90.78 188.55,-84.79 165.34,-79.51"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="238,-99.66 248.53,-98.47 239.56,-92.83 238,-99.66"/>
+<path fill="none" stroke="midnightblue" d="M239.75,-96.24C215.62,-90.78 189.17,-84.79 165.8,-79.51"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="239.05,-99.67 249.57,-98.47 240.59,-92.84 239.05,-99.67"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
@@ -179,8 +179,8 @@ var sectionId = 'dynsection-1';
 <!-- Node3&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node3&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M286.57,-92.28C263.61,-75.76 229.66,-53.37 197,-39.5 189.06,-36.13 180.54,-33.16 171.97,-30.57"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="284.66,-95.22 294.8,-98.29 288.79,-89.57 284.66,-95.22"/>
+<path fill="none" stroke="midnightblue" d="M287.67,-92.3C264.39,-75.79 230,-53.41 197,-39.5 188.97,-36.12 180.35,-33.14 171.69,-30.54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="285.86,-95.31 296.02,-98.31 289.95,-89.62 285.86,-95.31"/>
 </g>
 </g>
 </svg>

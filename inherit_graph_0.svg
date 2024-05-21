@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" target="_top" xlink:title="Defines the required methods adapters must implement to be compatible with Config.">
+<g id="a_node1"><a xlink:href="classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" target="_top" xlink:title="Defines the required methods adapters must implement to be compatible with fspm.config....">
 <polygon fill="none" stroke="black" points="0,-0.5 0,-30.5 153,-30.5 153,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.adapters.Config</text>
 <text text-anchor="middle" x="76.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Adapter</text>
@@ -21,7 +21,7 @@
 <!-- Node1 -->
 <g id="node2" class="node">
 <title>Node1</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1adapters_1_1JsonFileReader.html" target="_top" xlink:title="File reader to parse JSON config files to Config.">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1adapters_1_1JsonFileReader.html" target="_top" xlink:title="File reader to parse JSON config files to fspm.config.Config.">
 <polygon fill="none" stroke="black" points="189,-0.5 189,-30.5 332,-30.5 332,-0.5 189,-0.5"/>
 <text text-anchor="start" x="197" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.adapters.Json</text>
 <text text-anchor="middle" x="260.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileReader</text>

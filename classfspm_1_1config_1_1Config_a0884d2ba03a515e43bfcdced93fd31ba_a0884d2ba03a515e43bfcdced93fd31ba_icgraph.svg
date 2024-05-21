@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1Config_a9cbd7ea0f03a7f7b0718542f1ea28081.html#a9cbd7ea0f03a7f7b0718542f1ea28081" target="_top" xlink:title="Gets the singleton instance of the simulation Config.">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1Config_a9cbd7ea0f03a7f7b0718542f1ea28081.html#a9cbd7ea0f03a7f7b0718542f1ea28081" target="_top" xlink:title="Gets the singleton instance of the simulation fspm.config.Config.">
 <polygon fill="none" stroke="black" points="0,-0.5 0,-19.5 167,-19.5 167,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="83.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.Config.getInstance</text>
 </a>

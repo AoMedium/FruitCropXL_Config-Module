@@ -1,0 +1,7 @@
+<map id="fspm.config.params.structures.CategoryStore.CategoryStore" name="fspm.config.params.structures.CategoryStore.CategoryStore">
+<area shape="rect" id="node1" title=" " alt="" coords="873,39,1097,80"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a5b1316078bc6e936f6b443d6026bbdf6.html#a5b1316078bc6e936f6b443d6026bbdf6" title=" " alt="" coords="601,39,825,80"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a83d422ab7ad1e384663d9b5e1e02a339.html#a83d422ab7ad1e384663d9b5e1e02a339" title=" " alt="" coords="265,5,532,47"/>
+<area shape="rect" id="node5" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup_acd5745a400ce830e7f0c66532ba6b991.html#acd5745a400ce830e7f0c66532ba6b991" title=" " alt="" coords="244,71,553,112"/>
+<area shape="rect" id="node4" href="$classfspm_1_1config_1_1adapters_1_1JsonFileReader_a66baa6fc9e08972e7a71cac73d560312.html#a66baa6fc9e08972e7a71cac73d560312" title="Parses and returns a ParamGroup with the parameter contents of the provided file." alt="" coords="5,39,196,80"/>
+</map>

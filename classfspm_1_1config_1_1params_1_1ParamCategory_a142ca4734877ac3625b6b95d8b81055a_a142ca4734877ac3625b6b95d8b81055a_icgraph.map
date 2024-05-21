@@ -1,11 +1,8 @@
 <map id="fspm.config.params.ParamCategory.addParameter" name="fspm.config.params.ParamCategory.addParameter">
-<area shape="rect" id="node1" title="Adds a new Parameter to the category." alt="" coords="884,169,1080,211"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1tests_1_1ParamAccessTestSuite_ae63569c144c7462a35948dda27f2228d.html#ae63569c144c7462a35948dda27f2228d" title=" " alt="" coords="612,104,836,145"/>
-<area shape="rect" id="node6" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_ace6e5895f31f542bd87cd5b9650577b8.html#ace6e5895f31f542bd87cd5b9650577b8" title=" " alt="" coords="615,201,833,243"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1tests_1_1Hierarchy_1_1TableHierarchyTest_a704bbb652137e7f0ee7cbcbfda4371ba.html#a704bbb652137e7f0ee7cbcbfda4371ba" title=" " alt="" coords="303,5,505,47"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1ArrayTest_a60540cf6cf3766703ba581adcd6f3e08.html#a60540cf6cf3766703ba581adcd6f3e08" title=" " alt="" coords="290,71,518,112"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1tests_1_1ParamAccess_1_1SimpleTest_a9cc2fe2607fe05386ecabdd4fbab6480.html#a9cc2fe2607fe05386ecabdd4fbab6480" title=" " alt="" coords="290,136,518,177"/>
-<area shape="rect" id="node7" href="$classfspm_1_1config_1_1adapters_1_1handlers_1_1DocumentCategoryNameHandler_a14c971bed31f4417a5cf1b7341971fff.html#a14c971bed31f4417a5cf1b7341971fff" title=" " alt="" coords="265,201,543,243"/>
-<area shape="rect" id="node9" href="$classfspm_1_1config_1_1adapters_1_1handlers_1_1DocumentHybridCategoryNameHandler_a2f0e1a530f1048eeabf572e5108cd1f1.html#a2f0e1a530f1048eeabf572e5108cd1f1" title=" " alt="" coords="244,267,564,308"/>
-<area shape="rect" id="node8" href="$classfspm_1_1config_1_1adapters_1_1JsonFileReader_a66baa6fc9e08972e7a71cac73d560312.html#a66baa6fc9e08972e7a71cac73d560312" title="Parses and returns a ParamGroup with the parameter contents of the provided file." alt="" coords="5,235,196,276"/>
+<area shape="rect" id="node1" title="Adds a new Parameter to the category." alt="" coords="880,39,1076,80"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1ConfigTestSuite_aa88a76c679af01aa7f7a1f61c22f85aa.html#aa88a76c679af01aa7f7a1f61c22f85aa" title="Note: does not work when running tests in parallel." alt="" coords="601,5,832,47"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a5b1316078bc6e936f6b443d6026bbdf6.html#a5b1316078bc6e936f6b443d6026bbdf6" title=" " alt="" coords="605,71,829,112"/>
+<area shape="rect" id="node4" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a83d422ab7ad1e384663d9b5e1e02a339.html#a83d422ab7ad1e384663d9b5e1e02a339" title=" " alt="" coords="265,37,532,79"/>
+<area shape="rect" id="node6" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup_acd5745a400ce830e7f0c66532ba6b991.html#acd5745a400ce830e7f0c66532ba6b991" title=" " alt="" coords="244,103,553,144"/>
+<area shape="rect" id="node5" href="$classfspm_1_1config_1_1adapters_1_1JsonFileReader_a66baa6fc9e08972e7a71cac73d560312.html#a66baa6fc9e08972e7a71cac73d560312" title="Parses and returns a ParamGroup with the parameter contents of the provided file." alt="" coords="5,71,196,112"/>
 </map>

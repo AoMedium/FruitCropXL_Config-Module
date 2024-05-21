@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['jsonfilereader_254',['JsonFileReader',['../classfspm_1_1config_1_1adapters_1_1JsonFileReader_a7331b19b118b4313c38e25028b6512ec.html#a7331b19b118b4313c38e25028b6512ec',1,'fspm::config::adapters::JsonFileReader']]]
+  ['keyconflictexception_246',['KeyConflictException',['../classfspm_1_1util_1_1exceptions_1_1KeyConflictException_aecf8737e216750239cebebc990da46a8.html#aecf8737e216750239cebebc990da46a8',1,'fspm.util.exceptions.KeyConflictException.KeyConflictException(String name)'],['../classfspm_1_1util_1_1exceptions_1_1KeyConflictException_a6eb880bf3dd1d7e7d63740ee85b6c14e.html#a6eb880bf3dd1d7e7d63740ee85b6c14e',1,'fspm.util.exceptions.KeyConflictException.KeyConflictException(String name, String location)']]],
+  ['keyelement_247',['KeyElement',['../classfspm_1_1util_1_1KeyElement_a81cb83241e4f2846c8a81deb1c4dae23.html#a81cb83241e4f2846c8a81deb1c4dae23',1,'fspm::util::KeyElement']]],
+  ['keynotfoundexception_248',['KeyNotFoundException',['../classfspm_1_1util_1_1exceptions_1_1KeyNotFoundException_a721c3ae2012f12b34a3440d69ed025f8.html#a721c3ae2012f12b34a3440d69ed025f8',1,'fspm.util.exceptions.KeyNotFoundException.KeyNotFoundException(String name)'],['../classfspm_1_1util_1_1exceptions_1_1KeyNotFoundException_a94af2475e93c7192cde847d935394075.html#a94af2475e93c7192cde847d935394075',1,'fspm.util.exceptions.KeyNotFoundException.KeyNotFoundException(String name, String message)']]]
 ];

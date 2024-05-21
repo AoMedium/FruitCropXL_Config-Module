@@ -1,8 +1,8 @@
 <map id="fspm.config.params.ParamFactory.parseParameter" name="fspm.config.params.ParamFactory.parseParameter">
-<area shape="rect" id="node1" title="Returns a concrete Parameter instance depending on the data type of the JsonNode passed in." alt="" coords="879,39,1075,80"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1CategoryHierarchy_ace6e5895f31f542bd87cd5b9650577b8.html#ace6e5895f31f542bd87cd5b9650577b8" title=" " alt="" coords="612,5,831,47"/>
-<area shape="rect" id="node6" href="$classfspm_1_1config_1_1params_1_1hierarchy_1_1TableHierarchy_a43301537b61d4e184566f4518c9c8bc7.html#a43301537b61d4e184566f4518c9c8bc7" title=" " alt="" coords="612,71,831,112"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1adapters_1_1handlers_1_1DocumentCategoryNameHandler_a14c971bed31f4417a5cf1b7341971fff.html#a14c971bed31f4417a5cf1b7341971fff" title=" " alt="" coords="265,5,543,47"/>
-<area shape="rect" id="node5" href="$classfspm_1_1config_1_1adapters_1_1handlers_1_1DocumentHybridCategoryNameHandler_a2f0e1a530f1048eeabf572e5108cd1f1.html#a2f0e1a530f1048eeabf572e5108cd1f1" title=" " alt="" coords="244,71,564,112"/>
+<area shape="rect" id="node1" title="Returns a concrete Parameter instance depending on the data type of the JsonNode passed in." alt="" coords="873,39,1069,80"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a5b1316078bc6e936f6b443d6026bbdf6.html#a5b1316078bc6e936f6b443d6026bbdf6" title=" " alt="" coords="601,5,825,47"/>
+<area shape="rect" id="node6" href="$classfspm_1_1config_1_1params_1_1structures_1_1TableStore_aac5f94da214bb70c4221c30300916d03.html#aac5f94da214bb70c4221c30300916d03" title=" " alt="" coords="601,71,825,112"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a83d422ab7ad1e384663d9b5e1e02a339.html#a83d422ab7ad1e384663d9b5e1e02a339" title=" " alt="" coords="265,5,532,47"/>
+<area shape="rect" id="node5" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup_acd5745a400ce830e7f0c66532ba6b991.html#acd5745a400ce830e7f0c66532ba6b991" title=" " alt="" coords="244,71,553,112"/>
 <area shape="rect" id="node4" href="$classfspm_1_1config_1_1adapters_1_1JsonFileReader_a66baa6fc9e08972e7a71cac73d560312.html#a66baa6fc9e08972e7a71cac73d560312" title="Parses and returns a ParamGroup with the parameter contents of the provided file." alt="" coords="5,39,196,80"/>
 </map>

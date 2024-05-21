@@ -1,5 +1,6 @@
 <map id="fspm.config.adapters.JsonFileReader" name="fspm.config.adapters.JsonFileReader">
-<area shape="rect" id="node1" title="File reader to parse JSON config files to Config." alt="" coords="12,301,203,423"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" title="Defines the required methods adapters must implement to be compatible with Config." alt="" coords="5,145,209,252"/>
+<area shape="rect" id="node1" title="File reader to parse JSON config files to fspm.config.Config." alt="" coords="156,315,347,436"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" title="Defines the required methods adapters must implement to be compatible with fspm.config...." alt="" coords="5,145,209,252"/>
 <area shape="rect" id="node3" title=" " alt="" coords="61,5,153,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="233,160,365,237"/>
 </map>

@@ -10,6 +10,7 @@ var classfspm_1_1config_1_1params_1_1Parameter =
     [ "asIntegerArray", "classfspm_1_1config_1_1params_1_1Parameter_a05e8bc0ef3f057f90004b4ec4b3d0efe.html#a05e8bc0ef3f057f90004b4ec4b3d0efe", null ],
     [ "asString", "classfspm_1_1config_1_1params_1_1Parameter_a2aa8e99b2b6e0388b840c9ceb1e2e726.html#a2aa8e99b2b6e0388b840c9ceb1e2e726", null ],
     [ "asStringArray", "classfspm_1_1config_1_1params_1_1Parameter_a80c0cb3ad8030dd29fdc38382dffbb61.html#a80c0cb3ad8030dd29fdc38382dffbb61", null ],
+    [ "getDoubleType", "classfspm_1_1config_1_1params_1_1Parameter_a54e9dcffe048d38566416b7bf8e09fe1.html#a54e9dcffe048d38566416b7bf8e09fe1", null ],
     [ "getType", "classfspm_1_1config_1_1params_1_1Parameter_a2e767300a39c7c1af4240d303da2f312.html#a2e767300a39c7c1af4240d303da2f312", null ],
     [ "isNull", "classfspm_1_1config_1_1params_1_1Parameter_a2fd72835a908354fea23f92e3f3b1800.html#a2fd72835a908354fea23f92e3f3b1800", null ],
     [ "toString", "classfspm_1_1config_1_1params_1_1Parameter_ac38c578ffa2a2bc42cf45a802b7d874f.html#ac38c578ffa2a2bc42cf45a802b7d874f", null ],
