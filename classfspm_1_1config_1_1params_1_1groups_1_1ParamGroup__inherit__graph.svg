@@ -25,7 +25,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" target="_top" xlink:title="Represents and encapsulates access for the document&#45;category&#45;name format.">
 <polygon fill="none" stroke="black" points="0,-17 0,-118 188,-118 188,-17 0,-17"/>
 <text text-anchor="start" x="8" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="94" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentCategoryNameGroup</text>
@@ -33,7 +33,7 @@
 <text text-anchor="start" x="8" y="-76" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; categoryStore</text>
 <polyline fill="none" stroke="black" points="0,-69 188,-69 "/>
 <text text-anchor="start" x="8" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">+ DocumentCategoryNameGroup()</text>
-<text text-anchor="start" x="8" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCategoryHierarchy()</text>
+<text text-anchor="start" x="8" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCategoryStore()</text>
 <text text-anchor="start" x="8" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">+ toString()</text>
 <text text-anchor="start" x="8" y="-24" font-family="Helvetica,sans-Serif" font-size="10.00">+ parse()</text>
 </a>
@@ -48,7 +48,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" target="_top" xlink:title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format.">
 <polygon fill="none" stroke="black" points="206,-0.5 206,-134.5 408,-134.5 408,-0.5 206,-0.5"/>
 <text text-anchor="start" x="214" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="307" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentHybridCategoryNameGroup</text>
@@ -74,7 +74,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="139,-276.5 139,-344.5 261,-344.5 261,-276.5 139,-276.5"/>
 <text text-anchor="middle" x="200" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 <polyline fill="none" stroke="black" points="139,-325.5 261,-325.5 "/>

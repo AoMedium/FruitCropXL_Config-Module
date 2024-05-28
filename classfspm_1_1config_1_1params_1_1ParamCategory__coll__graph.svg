@@ -57,7 +57,7 @@ var sectionId = 'dynsection-1';
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="A ParamCategory stores Parameters that belong to a common category.">
+<g id="a_node1"><a xlink:title="Stores Parameters that belong to a common category.">
 <polygon fill="#bfbfbf" stroke="black" points="72.5,-0.5 72.5,-222.5 219.5,-222.5 219.5,-0.5 72.5,-0.5"/>
 <text text-anchor="start" x="80.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="146" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category</text>
@@ -85,7 +85,7 @@ var sectionId = 'dynsection-1';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="0,-270.5 0,-338.5 122,-338.5 122,-270.5 0,-270.5"/>
 <text text-anchor="middle" x="61" y="-326.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 <polyline fill="none" stroke="black" points="0,-319.5 122,-319.5 "/>

@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="Defines the required methods adapters must implement to be compatible with fspm.config....">
+<g id="a_node1"><a xlink:title="ConfigAdapter implementations are responsible for parsing different file types into ParamGroups.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-79.5 153,-79.5 153,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.adapters.Config</text>
 <text text-anchor="middle" x="76.5" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Adapter</text>

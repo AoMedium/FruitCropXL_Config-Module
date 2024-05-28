@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a8d9c3729c7e070182bc5ff2a8619b088.html#a8d9c3729c7e070182bc5ff2a8619b088" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a8d9c3729c7e070182bc5ff2a8619b088.html#a8d9c3729c7e070182bc5ff2a8619b088" target="_top" xlink:title="Sets the category context for the CategoryStore.">
 <polygon fill="none" stroke="black" points="235,-147.5 235,-177.5 422,-177.5 422,-147.5 235,-147.5"/>
 <text text-anchor="start" x="243" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="328.5" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore.setCategoryContext</text>

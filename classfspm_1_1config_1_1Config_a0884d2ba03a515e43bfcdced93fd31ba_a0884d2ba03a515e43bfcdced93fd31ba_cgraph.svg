@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1Config_a6069a78eec5ca1610f69d9556802e8a5.html#a6069a78eec5ca1610f69d9556802e8a5" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1Config_a6069a78eec5ca1610f69d9556802e8a5.html#a6069a78eec5ca1610f69d9556802e8a5" target="_top" xlink:title="Reset the Config Module by clearing all groups.">
 <polygon fill="none" stroke="black" points="177,-0.5 177,-19.5 312,-19.5 312,-0.5 177,-0.5"/>
 <text text-anchor="middle" x="244.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.Config.reset</text>
 </a>

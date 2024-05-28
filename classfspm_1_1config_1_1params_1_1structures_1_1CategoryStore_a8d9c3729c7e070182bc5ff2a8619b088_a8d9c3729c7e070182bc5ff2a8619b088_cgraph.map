@@ -1,4 +1,4 @@
 <map id="fspm.config.params.structures.CategoryStore.setCategoryContext" name="fspm.config.params.structures.CategoryStore.setCategoryContext">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,255,47"/>
+<area shape="rect" id="node1" title="Sets the category context for the CategoryStore." alt="" coords="5,5,255,47"/>
 <area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_acb70688bce116c81d8212e28dc804e4f.html#acb70688bce116c81d8212e28dc804e4f" title="Gets the category with the given key." alt="" coords="303,5,527,47"/>
 </map>

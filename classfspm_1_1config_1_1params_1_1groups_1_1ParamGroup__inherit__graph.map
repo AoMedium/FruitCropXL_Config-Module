@@ -1,6 +1,6 @@
 <map id="fspm.config.params.groups.ParamGroup" name="fspm.config.params.groups.ParamGroup">
 <area shape="rect" id="node1" title="Parameter configuration class for storing parameter categories." alt="" coords="171,145,373,237"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" title=" " alt="" coords="5,307,256,443"/>
-<area shape="rect" id="node4" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" title=" " alt="" coords="280,285,549,465"/>
-<area shape="rect" id="node2" href="$classfspm_1_1util_1_1KeyElement.html" title=" " alt="" coords="191,5,353,97"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" title="Represents and encapsulates access for the document&#45;category&#45;name format." alt="" coords="5,307,256,443"/>
+<area shape="rect" id="node4" href="$classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format." alt="" coords="280,285,549,465"/>
+<area shape="rect" id="node2" href="$classfspm_1_1util_1_1KeyElement.html" title="Represents an element which contains a key." alt="" coords="191,5,353,97"/>
 </map>

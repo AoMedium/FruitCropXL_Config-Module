@@ -1,7 +1,7 @@
 <map id="fspm.config.tests.ParamAccess.SimpleTest.testNullWithDefaultValue" name="fspm.config.tests.ParamAccess.SimpleTest.testNullWithDefaultValue">
 <area shape="rect" id="node1" title=" " alt="" coords="5,188,268,229"/>
 <area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a07f4c3b69f3b2f6a5d635aad33488b15.html#a07f4c3b69f3b2f6a5d635aad33488b15" title=" " alt="" coords="329,155,553,196"/>
-<area shape="rect" id="node11" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a8d9c3729c7e070182bc5ff2a8619b088.html#a8d9c3729c7e070182bc5ff2a8619b088" title=" " alt="" coords="316,220,565,261"/>
+<area shape="rect" id="node11" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a8d9c3729c7e070182bc5ff2a8619b088.html#a8d9c3729c7e070182bc5ff2a8619b088" title="Sets the category context for the CategoryStore." alt="" coords="316,220,565,261"/>
 <area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1ParamCategory_ad9163381c1dfed699d3d74b2d36c1893.html#ad9163381c1dfed699d3d74b2d36c1893" title=" " alt="" coords="655,89,851,131"/>
 <area shape="rect" id="node9" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_ae066b355d784560a9c277722940d3d4a.html#ae066b355d784560a9c277722940d3d4a" title=" " alt="" coords="613,155,892,196"/>
 <area shape="rect" id="node4" href="$classfspm_1_1config_1_1params_1_1Parameter_ad0857a4bb8cd3c4d354682f2e90bf362.html#ad0857a4bb8cd3c4d354682f2e90bf362" title=" " alt="" coords="955,39,1195,80"/>

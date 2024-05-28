@@ -91,7 +91,7 @@ $(document).ready(function(){initNavTree('classfspm_1_1config_1_1params_1_1Param
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory.html" title="ParamFactory creates instances of concrete Parameter implementations depending on the data type recei...">ParamFactory</a> creates instances of concrete <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a> implementations depending on the data type received.  
+<p><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory.html" title="ParamFactory creates instances of Parameters depending on the data type of the field being read.">ParamFactory</a> creates instances of <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameters</a> depending on the data type of the field being read.  
  <a href="classfspm_1_1config_1_1params_1_1ParamFactory.html#details">More...</a></p>
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
   <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for fspm.config.params.ParamFactory:</div>
@@ -105,21 +105,23 @@ $(document).ready(function(){initNavTree('classfspm_1_1config_1_1params_1_1Param
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aadcecc67803da778c697f1b6683cd5c7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7">parseParameter</a> (String name, JsonNode node)</td></tr>
-<tr class="memdesc:aadcecc67803da778c697f1b6683cd5c7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a concrete <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a> instance depending on the data type of the JsonNode passed in.  <a href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7">More...</a><br /></td></tr>
+<tr class="memdesc:aadcecc67803da778c697f1b6683cd5c7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a> instance which can be used to retrieve the parsed value.  <a href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7">More...</a><br /></td></tr>
 <tr class="separator:aadcecc67803da778c697f1b6683cd5c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-attribs"></a>
 Static Public Attributes</h2></td></tr>
 <tr class="memitem:a86bbe13ea9f72ef54e9c1429a1797d32"><td class="memItemLeft" align="right" valign="top">static final String&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory_a86bbe13ea9f72ef54e9c1429a1797d32.html#a86bbe13ea9f72ef54e9c1429a1797d32">NULL_STRING</a> = &quot;NA&quot;</td></tr>
+<tr class="memdesc:a86bbe13ea9f72ef54e9c1429a1797d32"><td class="mdescLeft">&#160;</td><td class="mdescRight">Special case where "NA" represents null in .txt property files.  <a href="classfspm_1_1config_1_1params_1_1ParamFactory_a86bbe13ea9f72ef54e9c1429a1797d32.html#a86bbe13ea9f72ef54e9c1429a1797d32">More...</a><br /></td></tr>
 <tr class="separator:a86bbe13ea9f72ef54e9c1429a1797d32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pac-methods"></a>
 Package Functions</h2></td></tr>
 <tr class="memitem:a306a864a6bafd2dee7394c87cee9db15"><td class="memItemLeft" align="right" valign="top">public&lt; T &gt; <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory_a306a864a6bafd2dee7394c87cee9db15.html#a306a864a6bafd2dee7394c87cee9db15">createParameter</a> (String name, T value)</td></tr>
+<tr class="memdesc:a306a864a6bafd2dee7394c87cee9db15"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic method for creating a new <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a> instance from a Java data type.  <a href="classfspm_1_1config_1_1params_1_1ParamFactory_a306a864a6bafd2dee7394c87cee9db15.html#a306a864a6bafd2dee7394c87cee9db15">More...</a><br /></td></tr>
 <tr class="separator:a306a864a6bafd2dee7394c87cee9db15"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory.html" title="ParamFactory creates instances of concrete Parameter implementations depending on the data type recei...">ParamFactory</a> creates instances of concrete <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameter</a> implementations depending on the data type received. </p>
+<div class="textblock"><p><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory.html" title="ParamFactory creates instances of Parameters depending on the data type of the field being read.">ParamFactory</a> creates instances of <a class="el" href="classfspm_1_1config_1_1params_1_1Parameter.html">Parameters</a> depending on the data type of the field being read. </p>
 <dl class="section author"><dt>Author</dt><dd>Ou-An Chuang </dd></dl>
 </div><hr/>The documentation for this class was generated from the following file:<ul>
 <li>/home/runner/work/FCM_Config-Module/FCM_Config-Module/src/main/java/fspm/config/params/<a class="el" href="ParamFactory_8java.html">ParamFactory.java</a></li>
@@ -130,7 +132,7 @@ Package Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><b>fspm</b></li><li class="navelem"><b>config</b></li><li class="navelem"><b>params</b></li><li class="navelem"><a class="el" href="classfspm_1_1config_1_1params_1_1ParamFactory.html">ParamFactory</a></li>
-    <li class="footer">Generated on Tue May 21 2024 00:11:05 for Fruit Crop Model - Config Module by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Tue May 28 2024 02:53:05 for Fruit Crop Model - Config Module by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

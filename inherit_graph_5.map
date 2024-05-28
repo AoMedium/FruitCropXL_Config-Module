@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="node1" href="$classfspm_1_1config_1_1params_1_1structures_1_1ParamStructure.html" title="Represents a structure found in ParamGroups that store parameters." alt="" coords="5,39,229,80"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore.html" title=" " alt="" coords="277,5,501,47"/>
-<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1structures_1_1TableStore.html" title=" " alt="" coords="277,71,501,112"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore.html" title="Represents the collection of categories in a document." alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1structures_1_1TableStore.html" title="Represents the collection of tables in a document." alt="" coords="277,71,501,112"/>
 </map>

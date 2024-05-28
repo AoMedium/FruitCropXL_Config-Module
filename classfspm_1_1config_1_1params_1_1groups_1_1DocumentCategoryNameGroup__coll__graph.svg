@@ -57,7 +57,7 @@ var sectionId = 'dynsection-1';
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Represents and encapsulates access for the document&#45;category&#45;name format.">
 <polygon fill="#bfbfbf" stroke="black" points="60,-0.5 60,-101.5 248,-101.5 248,-0.5 60,-0.5"/>
 <text text-anchor="start" x="68" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="154" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentCategoryNameGroup</text>
@@ -65,7 +65,7 @@ var sectionId = 'dynsection-1';
 <text text-anchor="middle" x="154" y="-59.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polyline fill="none" stroke="black" points="60,-52.5 248,-52.5 "/>
 <text text-anchor="start" x="68" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ DocumentCategoryNameGroup()</text>
-<text text-anchor="start" x="68" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCategoryHierarchy()</text>
+<text text-anchor="start" x="68" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCategoryStore()</text>
 <text text-anchor="start" x="68" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toString()</text>
 <text text-anchor="start" x="68" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parse()</text>
 </a>
@@ -94,7 +94,7 @@ var sectionId = 'dynsection-1';
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="47,-816.5 47,-884.5 169,-884.5 169,-816.5 47,-816.5"/>
 <text text-anchor="middle" x="108" y="-872.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 <polyline fill="none" stroke="black" points="47,-865.5 169,-865.5 "/>
@@ -114,7 +114,7 @@ var sectionId = 'dynsection-1';
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="A ParamCategory stores Parameters that belong to a common category.">
+<g id="a_node8"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="Stores Parameters that belong to a common category.">
 <polygon fill="none" stroke="black" points="103.5,-477.5 103.5,-699.5 250.5,-699.5 250.5,-477.5 103.5,-477.5"/>
 <text text-anchor="start" x="111.5" y="-687.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="177" y="-676.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category</text>
@@ -190,7 +190,7 @@ var sectionId = 'dynsection-1';
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore.html" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore.html" target="_top" xlink:title="Represents the collection of categories in a document.">
 <polygon fill="none" stroke="black" points="211,-149.5 211,-371.5 379,-371.5 379,-149.5 211,-149.5"/>
 <text text-anchor="start" x="219" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="295" y="-348.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore</text>

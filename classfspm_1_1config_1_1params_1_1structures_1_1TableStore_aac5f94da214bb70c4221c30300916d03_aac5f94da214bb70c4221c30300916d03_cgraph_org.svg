@@ -21,95 +21,111 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamTable_a399e39364c1efcbbe169e6373e722c2f.html#a399e39364c1efcbbe169e6373e722c2f" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamTable_abf0a16a59de2f69f33eeef9b210decfe.html#abf0a16a59de2f69f33eeef9b210decfe" target="_top" xlink:title="Add a row of parameters to the table.">
 <polygon fill="none" stroke="black" points="214.5,-196.5 214.5,-226.5 361.5,-226.5 361.5,-196.5 214.5,-196.5"/>
 <text text-anchor="start" x="222.5" y="-214.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
-<text text-anchor="middle" x="288" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">Table.add</text>
+<text text-anchor="middle" x="288" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">Table.addRow</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M105.52,-128.71C128.49,-145.15 167.33,-171.17 204,-187.5 208.39,-189.46 212.99,-191.3 217.67,-193.03"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="216.75,-196.41 227.34,-196.41 219.06,-189.8 216.75,-196.41"/>
+<path fill="none" stroke="midnightblue" d="M106.01,-128.71C129.09,-144.85 167.73,-170.24 204,-186.5 209.28,-188.87 214.84,-191.09 220.49,-193.15"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="219.44,-196.49 230.03,-196.47 221.74,-189.88 219.44,-196.49"/>
 </g>
-<!-- Node3 -->
-<g id="node3" class="node">
-<title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore_a182aacc9e4bd42a1b80c0209b92f1ed2.html#a182aacc9e4bd42a1b80c0209b92f1ed2" target="_top" xlink:title=" ">
+<!-- Node4 -->
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore_a182aacc9e4bd42a1b80c0209b92f1ed2.html#a182aacc9e4bd42a1b80c0209b92f1ed2" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="204,-147.5 204,-177.5 372,-177.5 372,-147.5 204,-147.5"/>
 <text text-anchor="start" x="212" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="288" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">TableStore.addTable</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node3 -->
-<g id="edge2" class="edge">
-<title>Node1&#45;&gt;Node3</title>
+<!-- Node1&#45;&gt;Node4 -->
+<g id="edge3" class="edge">
+<title>Node1&#45;&gt;Node4</title>
 <path fill="none" stroke="midnightblue" d="M146.98,-128.53C168.6,-133.78 193.04,-139.71 215.37,-145.13"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="214.59,-148.54 225.14,-147.49 216.24,-141.74 214.59,-148.54"/>
 </g>
-<!-- Node5 -->
-<g id="node5" class="node">
-<title>Node5</title>
-<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1adapters_1_1JsonFileReader_ade656b5e0e5d950b9997ee04ec01964d.html#ade656b5e0e5d950b9997ee04ec01964d" target="_top" xlink:title="Helper function for getting root/tree node from a JSON file.">
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="classfspm_1_1config_1_1adapters_1_1JsonFileReader_ade656b5e0e5d950b9997ee04ec01964d.html#ade656b5e0e5d950b9997ee04ec01964d" target="_top" xlink:title="Helper function for getting root/tree node from a JSON file.">
 <polygon fill="none" stroke="black" points="213.5,-98.5 213.5,-128.5 362.5,-128.5 362.5,-98.5 213.5,-98.5"/>
 <text text-anchor="start" x="221.5" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.adapters.Json</text>
 <text text-anchor="middle" x="288" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileReader.getTreeFromFile</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node5 -->
-<g id="edge4" class="edge">
-<title>Node1&#45;&gt;Node5</title>
+<!-- Node1&#45;&gt;Node6 -->
+<g id="edge5" class="edge">
+<title>Node1&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M168.04,-113.5C179.65,-113.5 191.59,-113.5 203.22,-113.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="203.34,-117 213.34,-113.5 203.34,-110 203.34,-117"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node">
-<title>Node6</title>
-<g id="a_node6"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7" target="_top" xlink:title="Returns a concrete Parameter instance depending on the data type of the JsonNode passed in.">
+<!-- Node7 -->
+<g id="node7" class="node">
+<title>Node7</title>
+<g id="a_node7"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7" target="_top" xlink:title="Returns a Parameter instance which can be used to retrieve the parsed value.">
 <polygon fill="none" stroke="black" points="214.5,-49.5 214.5,-79.5 361.5,-79.5 361.5,-49.5 214.5,-49.5"/>
 <text text-anchor="start" x="222.5" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="288" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">Factory.parseParameter</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge5" class="edge">
-<title>Node1&#45;&gt;Node6</title>
+<!-- Node1&#45;&gt;Node7 -->
+<g id="edge6" class="edge">
+<title>Node1&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M146.98,-98.47C168.6,-93.22 193.04,-87.29 215.37,-81.87"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="216.24,-85.26 225.14,-79.51 214.59,-78.46 216.24,-85.26"/>
 </g>
-<!-- Node7 -->
-<g id="node7" class="node">
-<title>Node7</title>
-<g id="a_node7"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore_a4606966af5062817b2f00def4bb36192.html#a4606966af5062817b2f00def4bb36192" target="_top" xlink:title=" ">
+<!-- Node8 -->
+<g id="node8" class="node">
+<title>Node8</title>
+<g id="a_node8"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore_a4606966af5062817b2f00def4bb36192.html#a4606966af5062817b2f00def4bb36192" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="204,-0.5 204,-30.5 372,-30.5 372,-0.5 204,-0.5"/>
 <text text-anchor="start" x="212" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="288" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">TableStore.TableStore</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node7 -->
-<g id="edge6" class="edge">
-<title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M106.01,-98.29C129.09,-82.15 167.73,-56.76 204,-40.5 209.28,-38.13 214.84,-35.91 220.49,-33.85"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="221.74,-37.12 230.03,-30.53 219.44,-30.51 221.74,-37.12"/>
+<!-- Node1&#45;&gt;Node8 -->
+<g id="edge7" class="edge">
+<title>Node1&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M105.52,-98.29C128.49,-81.85 167.33,-55.83 204,-39.5 208.39,-37.54 212.99,-35.7 217.67,-33.97"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="219.06,-37.2 227.34,-30.59 216.75,-30.59 219.06,-37.2"/>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node">
-<title>Node4</title>
-<g id="a_node4"><a xlink:href="classfspm_1_1util_1_1KeyElement_a653aac67328f98c1201974736671fe0d.html#a653aac67328f98c1201974736671fe0d" target="_top" xlink:title=" ">
+<!-- Node3 -->
+<g id="node3" class="node">
+<title>Node3</title>
+<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamTable_a0cbd06e354291e5fa2f2ff1aad54d18c.html#a0cbd06e354291e5fa2f2ff1aad54d18c" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="413.5,-196.5 413.5,-226.5 560.5,-226.5 560.5,-196.5 413.5,-196.5"/>
+<text text-anchor="start" x="421.5" y="-214.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
+<text text-anchor="middle" x="487" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">Table.setRow</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node3 -->
+<g id="edge2" class="edge">
+<title>Node2&#45;&gt;Node3</title>
+<path fill="none" stroke="midnightblue" d="M361.52,-211.5C375.11,-211.5 389.42,-211.5 403.3,-211.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="403.31,-215 413.31,-211.5 403.31,-208 403.31,-215"/>
+</g>
+<!-- Node5 -->
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:href="classfspm_1_1util_1_1KeyElement_a653aac67328f98c1201974736671fe0d.html#a653aac67328f98c1201974736671fe0d" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="408,-153 408,-172 566,-172 566,-153 408,-153"/>
 <text text-anchor="middle" x="487" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement.getKey</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
-<title>Node3&#45;&gt;Node4</title>
+<!-- Node4&#45;&gt;Node5 -->
+<g id="edge4" class="edge">
+<title>Node4&#45;&gt;Node5</title>
 <path fill="none" stroke="midnightblue" d="M372.26,-162.5C380.62,-162.5 389.13,-162.5 397.55,-162.5"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="397.74,-166 407.74,-162.5 397.74,-159 397.74,-166"/>
 </g>

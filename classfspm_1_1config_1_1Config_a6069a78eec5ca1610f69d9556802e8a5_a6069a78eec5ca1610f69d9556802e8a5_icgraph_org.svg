@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Reset the Config Module by clearing all groups.">
 <polygon fill="#bfbfbf" stroke="black" points="380,-0.5 380,-19.5 515,-19.5 515,-0.5 380,-0.5"/>
 <text text-anchor="middle" x="447.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.Config.reset</text>
 </a>

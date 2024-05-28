@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-0.5 0,-134.5 202,-134.5 202,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-122.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="101" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentHybridCategoryNameGroup</text>
@@ -51,7 +51,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="40,-276.5 40,-344.5 162,-344.5 162,-276.5 40,-276.5"/>
 <text text-anchor="middle" x="101" y="-332.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 <polyline fill="none" stroke="black" points="40,-325.5 162,-325.5 "/>

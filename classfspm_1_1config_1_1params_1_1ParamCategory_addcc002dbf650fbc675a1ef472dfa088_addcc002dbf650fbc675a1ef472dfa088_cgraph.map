@@ -1,6 +1,6 @@
 <map id="fspm.config.params.ParamCategory.getArray" name="fspm.config.params.ParamCategory.getArray">
 <area shape="rect" id="node1" title=" " alt="" coords="5,93,201,135"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1Parameter_a2dced470a20701940042f6dacad7f78e.html#a2dced470a20701940042f6dacad7f78e" title=" " alt="" coords="249,60,489,101"/>
+<area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1Parameter_a2dced470a20701940042f6dacad7f78e.html#a2dced470a20701940042f6dacad7f78e" title="Generic method for getting arrays of a given type." alt="" coords="249,60,489,101"/>
 <area shape="rect" id="node6" href="$classfspm_1_1config_1_1params_1_1ParamCategory_ac81e6b98fa48fc3426eed6f60e81da5b.html#ac81e6b98fa48fc3426eed6f60e81da5b" title="Get generic Parameter with the given key." alt="" coords="271,125,467,167"/>
 <area shape="rect" id="node3" href="$classfspm_1_1config_1_1params_1_1Parameter_a54e9dcffe048d38566416b7bf8e09fe1.html#a54e9dcffe048d38566416b7bf8e09fe1" title=" " alt="" coords="545,5,792,47"/>
 <area shape="rect" id="node4" href="$classfspm_1_1util_1_1KeyElement_a653aac67328f98c1201974736671fe0d.html#a653aac67328f98c1201974736671fe0d" title=" " alt="" coords="563,126,774,153"/>

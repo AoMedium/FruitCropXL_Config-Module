@@ -1,4 +1,4 @@
 <map id="fspm.config.params.ParamFactory.createParameter" name="fspm.config.params.ParamFactory.createParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="284,5,480,47"/>
+<area shape="rect" id="node1" title="Generic method for creating a new Parameter instance from a Java data type." alt="" coords="284,5,480,47"/>
 <area shape="rect" id="node2" href="$classfspm_1_1config_1_1ConfigTestSuite_aa88a76c679af01aa7f7a1f61c22f85aa.html#aa88a76c679af01aa7f7a1f61c22f85aa" title="Note: does not work when running tests in parallel." alt="" coords="5,5,236,47"/>
 </map>

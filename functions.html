@@ -84,9 +84,6 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <div class="textblock">Here is a list of all class members with links to the classes they belong to:</div>
 
 <h3><a id="index_a"></a>- a -</h3><ul>
-<li>add()
-: <a class="el" href="classfspm_1_1config_1_1params_1_1ParamTable_a399e39364c1efcbbe169e6373e722c2f.html#a399e39364c1efcbbe169e6373e722c2f">fspm.config.params.ParamTable</a>
-</li>
 <li>addCategory()
 : <a class="el" href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a848e878d6fbdff21c30ac6cfd8336ecb.html#a848e878d6fbdff21c30ac6cfd8336ecb">fspm.config.params.structures.CategoryStore</a>
 </li>
@@ -98,6 +95,9 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 </li>
 <li>addParameter()
 : <a class="el" href="classfspm_1_1config_1_1params_1_1ParamCategory_a142ca4734877ac3625b6b95d8b81055a.html#a142ca4734877ac3625b6b95d8b81055a">fspm.config.params.ParamCategory</a>
+</li>
+<li>addRow()
+: <a class="el" href="classfspm_1_1config_1_1params_1_1ParamTable_abf0a16a59de2f69f33eeef9b210decfe.html#abf0a16a59de2f69f33eeef9b210decfe">fspm.config.params.ParamTable</a>
 </li>
 <li>addTable()
 : <a class="el" href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore_a182aacc9e4bd42a1b80c0209b92f1ed2.html#a182aacc9e4bd42a1b80c0209b92f1ed2">fspm.config.params.structures.TableStore</a>
@@ -194,11 +194,9 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <li>getCategory()
 : <a class="el" href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_acb70688bce116c81d8212e28dc804e4f.html#acb70688bce116c81d8212e28dc804e4f">fspm.config.params.structures.CategoryStore</a>
 </li>
-<li>getCategoryHierarchy()
-: <a class="el" href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a1b1a0dbec7a33010d6ea7eb958cf744b.html#a1b1a0dbec7a33010d6ea7eb958cf744b">fspm.config.params.groups.DocumentCategoryNameGroup</a>
-</li>
 <li>getCategoryStore()
-: <a class="el" href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup_ac2d77a0e6240b017ce3869b772f3df7a.html#ac2d77a0e6240b017ce3869b772f3df7a">fspm.config.params.groups.DocumentHybridCategoryNameGroup</a>
+: <a class="el" href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_abeccdfa3dbd43e8b1da99d06473f7431.html#abeccdfa3dbd43e8b1da99d06473f7431">fspm.config.params.groups.DocumentCategoryNameGroup</a>
+, <a class="el" href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup_ac2d77a0e6240b017ce3869b772f3df7a.html#ac2d77a0e6240b017ce3869b772f3df7a">fspm.config.params.groups.DocumentHybridCategoryNameGroup</a>
 </li>
 <li>getCategoryWithParam()
 : <a class="el" href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a05635b1745cfdb9ed85c076ee762cbdf.html#a05635b1745cfdb9ed85c076ee762cbdf">fspm.config.params.structures.CategoryStore</a>
@@ -392,7 +390,6 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <h3><a id="index_s"></a>- s -</h3><ul>
 <li>set()
 : <a class="el" href="interfacefspm_1_1config_1_1params_1_1ParamAccessor_adfaf84e8b9a0002853e13179194b5314.html#adfaf84e8b9a0002853e13179194b5314">fspm.config.params.ParamAccessor</a>
-, <a class="el" href="classfspm_1_1config_1_1params_1_1ParamTable_aeab4709c7072fd5325de88d1ed8e41da.html#aeab4709c7072fd5325de88d1ed8e41da">fspm.config.params.ParamTable</a>
 , <a class="el" href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore_a0e0bf49ac1f827559ae35a5cff9dbd24.html#a0e0bf49ac1f827559ae35a5cff9dbd24">fspm.config.params.structures.CategoryStore</a>
 </li>
 <li>setCategoryContext()
@@ -400,6 +397,9 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 </li>
 <li>setParameter()
 : <a class="el" href="classfspm_1_1config_1_1params_1_1ParamCategory_a2a6cf0d3285caa8b4258d29b55b2b235.html#a2a6cf0d3285caa8b4258d29b55b2b235">fspm.config.params.ParamCategory</a>
+</li>
+<li>setRow()
+: <a class="el" href="classfspm_1_1config_1_1params_1_1ParamTable_a0cbd06e354291e5fa2f2ff1aad54d18c.html#a0cbd06e354291e5fa2f2ff1aad54d18c">fspm.config.params.ParamTable</a>
 </li>
 </ul>
 
@@ -485,7 +485,7 @@ $(document).ready(function(){initNavTree('functions.html',''); initResizable(); 
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue May 21 2024 00:11:05 for Fruit Crop Model - Config Module by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Tue May 28 2024 02:53:05 for Fruit Crop Model - Config Module by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

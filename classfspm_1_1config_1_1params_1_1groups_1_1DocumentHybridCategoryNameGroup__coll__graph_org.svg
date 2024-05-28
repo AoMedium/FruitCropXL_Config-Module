@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format.">
 <polygon fill="#bfbfbf" stroke="black" points="599.5,-0.5 599.5,-123.5 801.5,-123.5 801.5,-0.5 599.5,-0.5"/>
 <text text-anchor="start" x="607.5" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="700.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentHybridCategoryNameGroup</text>
@@ -50,7 +50,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="363.5,-833 363.5,-901 485.5,-901 485.5,-833 363.5,-833"/>
 <text text-anchor="middle" x="424.5" y="-889" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 <polyline fill="none" stroke="black" points="363.5,-882 485.5,-882 "/>
@@ -70,7 +70,7 @@
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="A ParamCategory stores Parameters that belong to a common category.">
+<g id="a_node8"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="Stores Parameters that belong to a common category.">
 <polygon fill="none" stroke="black" points="281,-499.5 281,-721.5 428,-721.5 428,-499.5 281,-499.5"/>
 <text text-anchor="start" x="289" y="-709.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="354.5" y="-698.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category</text>
@@ -146,7 +146,7 @@
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore.html" target="_top" xlink:title=" ">
+<g id="a_node13"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1TableStore.html" target="_top" xlink:title="Represents the collection of tables in a document.">
 <polygon fill="none" stroke="black" points="706.5,-554.5 706.5,-666.5 874.5,-666.5 874.5,-554.5 706.5,-554.5"/>
 <text text-anchor="start" x="714.5" y="-654.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="790.5" y="-643.5" font-family="Helvetica,sans-Serif" font-size="10.00">TableStore</text>
@@ -171,7 +171,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore.html" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1params_1_1structures_1_1CategoryStore.html" target="_top" xlink:title="Represents the collection of categories in a document.">
 <polygon fill="none" stroke="black" points="327.5,-171.5 327.5,-393.5 495.5,-393.5 495.5,-171.5 327.5,-171.5"/>
 <text text-anchor="start" x="335.5" y="-381.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="411.5" y="-370.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore</text>

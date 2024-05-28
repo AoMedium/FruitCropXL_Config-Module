@@ -53,7 +53,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1Parameter_a2dced470a20701940042f6dacad7f78e.html#a2dced470a20701940042f6dacad7f78e" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1Parameter_a2dced470a20701940042f6dacad7f78e.html#a2dced470a20701940042f6dacad7f78e" target="_top" xlink:title="Generic method for getting arrays of a given type.">
 <polygon fill="none" stroke="black" points="688,-90.5 688,-120.5 868,-120.5 868,-90.5 688,-90.5"/>
 <text text-anchor="start" x="696" y="-108.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter.as</text>
 <text text-anchor="middle" x="778" y="-97.5" font-family="Helvetica,sans-Serif" font-size="10.00">Array</text>

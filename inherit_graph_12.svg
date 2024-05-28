@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node1"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="0,-96 0,-115 122,-115 122,-96 0,-96"/>
 <text text-anchor="middle" x="61" y="-103" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 </a>
@@ -20,7 +20,7 @@
 <!-- Node1 -->
 <g id="node2" class="node">
 <title>Node1</title>
-<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="A ParamCategory stores Parameters that belong to a common category.">
+<g id="a_node2"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="Stores Parameters that belong to a common category.">
 <polygon fill="none" stroke="black" points="168,-161.5 168,-191.5 315,-191.5 315,-161.5 168,-161.5"/>
 <text text-anchor="start" x="176" y="-179.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="241.5" y="-168.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category</text>
@@ -36,7 +36,7 @@
 <!-- Node2 -->
 <g id="node3" class="node">
 <title>Node2</title>
-<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamTable.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamTable.html" target="_top" xlink:title="Stores Parameters in a tabular format as rows and columns (parameter key).">
 <polygon fill="none" stroke="black" points="168,-112.5 168,-142.5 315,-142.5 315,-112.5 168,-112.5"/>
 <text text-anchor="start" x="176" y="-130.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="241.5" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">Table</text>
@@ -52,7 +52,7 @@
 <!-- Node3 -->
 <g id="node4" class="node">
 <title>Node3</title>
-<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1Parameter.html" target="_top" xlink:title="Parameter represents variables that can be stored using Java data types or other user&#45;defined types.">
+<g id="a_node4"><a xlink:href="classfspm_1_1config_1_1params_1_1Parameter.html" target="_top" xlink:title="Parameter represents variables that can be stored as Java data types.">
 <polygon fill="none" stroke="black" points="158,-74 158,-93 325,-93 325,-74 158,-74"/>
 <text text-anchor="middle" x="241.5" y="-81" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter</text>
 </a>
@@ -83,7 +83,7 @@
 <!-- Node5 -->
 <g id="node6" class="node">
 <title>Node5</title>
-<g id="a_node6"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" target="_top" xlink:title="Represents and encapsulates access for the document&#45;category&#45;name format.">
 <polygon fill="none" stroke="black" points="377,-49.5 377,-79.5 547,-79.5 547,-49.5 377,-49.5"/>
 <text text-anchor="start" x="385" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="462" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentCategoryNameGroup</text>
@@ -99,7 +99,7 @@
 <!-- Node6 -->
 <g id="node7" class="node">
 <title>Node6</title>
-<g id="a_node7"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="classfspm_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" target="_top" xlink:title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format.">
 <polygon fill="none" stroke="black" points="361,-0.5 361,-30.5 563,-30.5 563,-0.5 361,-0.5"/>
 <text text-anchor="start" x="369" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.groups.</text>
 <text text-anchor="middle" x="462" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">DocumentHybridCategoryNameGroup</text>

@@ -118,7 +118,7 @@
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7" target="_top" xlink:title="Returns a concrete Parameter instance depending on the data type of the JsonNode passed in.">
+<g id="a_node9"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamFactory_aadcecc67803da778c697f1b6683cd5c7.html#aadcecc67803da778c697f1b6683cd5c7" target="_top" xlink:title="Returns a Parameter instance which can be used to retrieve the parsed value.">
 <polygon fill="none" stroke="black" points="505.5,-0.5 505.5,-30.5 652.5,-30.5 652.5,-0.5 505.5,-0.5"/>
 <text text-anchor="start" x="513.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="579" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Factory.parseParameter</text>

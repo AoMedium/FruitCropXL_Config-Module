@@ -1,4 +1,4 @@
 <map id="fspm.config.params.structures.TableStore" name="fspm.config.params.structures.TableStore">
-<area shape="rect" id="node1" title=" " alt="" coords="5,160,229,325"/>
+<area shape="rect" id="node1" title="Represents the collection of tables in a document." alt="" coords="5,160,229,325"/>
 <area shape="rect" id="node2" href="$classfspm_1_1config_1_1params_1_1structures_1_1ParamStructure.html" title="Represents a structure found in ParamGroups that store parameters." alt="" coords="5,5,229,112"/>
 </map>

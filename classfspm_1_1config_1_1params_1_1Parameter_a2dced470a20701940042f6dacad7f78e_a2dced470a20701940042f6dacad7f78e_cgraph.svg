@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Generic method for getting arrays of a given type.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-33 0,-63 180,-63 180,-33 0,-33"/>
 <text text-anchor="start" x="8" y="-51" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Parameter.as</text>
 <text text-anchor="middle" x="90" y="-40" font-family="Helvetica,sans-Serif" font-size="10.00">Array</text>

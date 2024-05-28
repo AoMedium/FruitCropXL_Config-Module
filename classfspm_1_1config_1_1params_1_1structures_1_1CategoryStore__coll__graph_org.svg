@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Represents the collection of categories in a document.">
 <polygon fill="#bfbfbf" stroke="black" points="252,-0.5 252,-222.5 420,-222.5 420,-0.5 252,-0.5"/>
 <text text-anchor="start" x="260" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.structures.</text>
 <text text-anchor="middle" x="336" y="-199.5" font-family="Helvetica,sans-Serif" font-size="10.00">CategoryStore</text>
@@ -80,7 +80,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="classfspm_1_1util_1_1KeyElement.html" target="_top" xlink:title="Represents an element which contains a key.">
 <polygon fill="none" stroke="black" points="59,-609.5 59,-677.5 181,-677.5 181,-609.5 59,-609.5"/>
 <text text-anchor="middle" x="120" y="-665.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.util.KeyElement</text>
 <polyline fill="none" stroke="black" points="59,-658.5 181,-658.5 "/>
@@ -121,7 +121,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="A ParamCategory stores Parameters that belong to a common category.">
+<g id="a_node5"><a xlink:href="classfspm_1_1config_1_1params_1_1ParamCategory.html" target="_top" xlink:title="Stores Parameters that belong to a common category.">
 <polygon fill="none" stroke="black" points="152.5,-270.5 152.5,-492.5 299.5,-492.5 299.5,-270.5 152.5,-270.5"/>
 <text text-anchor="start" x="160.5" y="-480.5" font-family="Helvetica,sans-Serif" font-size="10.00">fspm.config.params.Param</text>
 <text text-anchor="middle" x="226" y="-469.5" font-family="Helvetica,sans-Serif" font-size="10.00">Category</text>
