@@ -1,0 +1,12 @@
+<map id="io.github.fruitcropxl.config.Config" name="io.github.fruitcropxl.config.Config">
+<area shape="rect" id="Node000001" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="52,436,241,676"/>
+<area shape="rect" id="Node000002" href="$classSerializable.html" title=" " alt="" coords="5,5,96,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,85,35,143,28,216,30,295,43,373,67,435,62,437,37,374,24,295,23,215,29,142,38,84"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1Config.html" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="52,133,241,373"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="73,82,96,132,91,134,68,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,374,149,419,144,419,144,374"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="243,226,261,235,268,253,265,265,258,273,254,270,261,263,263,254,257,239,240,230"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="158,5,357,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="309,69,331,93,351,126,364,161,371,197,374,235,372,272,366,308,345,374,328,406,307,435,256,485,253,481,303,431,324,403,340,372,361,307,366,271,368,235,366,198,358,162,346,128,327,96,305,73"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="243,72,218,120,214,118,239,69"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="io.github.fruitcropxl.config.params.structures.TableStore.getTable" name="io.github.fruitcropxl.config.params.structures.TableStore.getTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,324,77"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamTable_a9a19ed9d8e338e803e4309b0a6da4ef9.html#a9a19ed9d8e338e803e4309b0a6da4ef9" title=" " alt="" coords="372,37,623,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,55,358,55,358,60,324,60"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamTable_a358fda824b5d5f8df3b9aec30722676a.html#a358fda824b5d5f8df3b9aec30722676a" title=" " alt="" coords="671,5,921,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="623,41,657,38,657,43,623,47"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1Parameter_aacab48aea46625c49025845f91364918.html#aacab48aea46625c49025845f91364918" title="Get the value of the parameter as the given type." alt="" coords="671,69,921,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="623,68,657,72,657,77,623,73"/>
+</map>

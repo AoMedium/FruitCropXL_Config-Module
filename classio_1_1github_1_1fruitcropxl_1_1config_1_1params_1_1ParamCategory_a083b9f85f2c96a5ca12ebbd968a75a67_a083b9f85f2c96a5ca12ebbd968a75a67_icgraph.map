@@ -1,0 +1,11 @@
+<map id="io.github.fruitcropxl.config.params.ParamCategory.get" name="io.github.fruitcropxl.config.params.ParamCategory.get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="739,69,989,109"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a74555272c6dec5c9c88d18e876d875f5.html#a74555272c6dec5c9c88d18e876d875f5" title=" " alt="" coords="372,5,691,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="745,69,635,48,636,43,746,64"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a1016e54e70a0e99488e485d5084b9073.html#a1016e54e70a0e99488e485d5084b9073" title=" " alt="" coords="372,69,691,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="725,92,691,92,691,87,725,87"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ae7921bf95e6451354dc2960de705971d.html#ae7921bf95e6451354dc2960de705971d" title="Gets the category with the given key." alt="" coords="372,133,691,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="746,115,636,136,635,131,745,109"/>
+<area shape="rect" id="Node000005" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a5b66766ba5158506c14486e06a93d705.html#a5b66766ba5158506c14486e06a93d705" title="Sets the category context for the CategoryStore." alt="" coords="5,133,324,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,156,324,156,324,151,358,151"/>
+</map>

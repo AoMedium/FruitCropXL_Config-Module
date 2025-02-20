@@ -1,0 +1,17 @@
+<map id="io.github.fruitcropxl.config.params.Parameter.getType" name="io.github.fruitcropxl.config.params.Parameter.getType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="671,165,921,205"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_adba5c6502d7ba3f85b1ea6645a9300fa.html#adba5c6502d7ba3f85b1ea6645a9300fa" title="Set parameter with the given key to the provided Parameter." alt="" coords="372,165,623,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,188,623,188,623,183,657,183"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_afb87b945d5dcfe049b62d46c6074d040.html#afb87b945d5dcfe049b62d46c6074d040" title=" " alt="" coords="5,5,324,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,158,401,107,363,81,323,60,290,48,292,43,325,55,366,77,404,102,467,153"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a854e0a86f310abea76cbea37e5c50b11.html#a854e0a86f310abea76cbea37e5c50b11" title=" " alt="" coords="5,69,324,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,163,323,124,276,112,277,107,325,119,436,158"/>
+<area shape="rect" id="Node000005" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ab2304389072647ed89dc005d2307f0d2.html#ab2304389072647ed89dc005d2307f0d2" title=" " alt="" coords="5,133,324,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="358,175,324,171,324,166,358,169"/>
+<area shape="rect" id="Node000006" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a5d46ff214778261fd0a44b708ece4ed3.html#a5d46ff214778261fd0a44b708ece4ed3" title=" " alt="" coords="5,197,324,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="358,201,324,205,324,199,358,196"/>
+<area shape="rect" id="Node000007" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a50a9153ee46f3c8fbed477aec7389707.html#a50a9153ee46f3c8fbed477aec7389707" title=" " alt="" coords="5,261,324,301"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="436,213,325,252,277,264,276,259,323,247,435,208"/>
+<area shape="rect" id="Node000008" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ad2c01a6b80b009f853d52f10e5dcc977.html#ad2c01a6b80b009f853d52f10e5dcc977" title=" " alt="" coords="5,325,324,365"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="467,217,404,268,366,294,325,316,292,328,290,323,323,311,363,290,401,264,463,213"/>
+</map>

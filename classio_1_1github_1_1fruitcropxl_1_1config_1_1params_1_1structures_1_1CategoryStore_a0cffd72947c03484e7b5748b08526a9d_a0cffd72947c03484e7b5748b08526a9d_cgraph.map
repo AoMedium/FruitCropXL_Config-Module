@@ -1,0 +1,9 @@
+<map id="io.github.fruitcropxl.config.params.structures.CategoryStore.parse" name="io.github.fruitcropxl.config.params.structures.CategoryStore.parse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,324,109"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_aa495d560fa27d896d0f4f3f28d8ae69f.html#aa495d560fa27d896d0f4f3f28d8ae69f" title="Adds a new category." alt="" coords="372,5,691,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,67,402,45,403,50,281,72"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a261b5933d7e578abc33ce321141b72f3.html#a261b5933d7e578abc33ce321141b72f3" title="Adds a new Parameter to the category." alt="" coords="406,69,657,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="324,87,392,87,392,92,324,92"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamFactory_a3eb43ef16cc54b880c211ae0faf9f4bc.html#a3eb43ef16cc54b880c211ae0faf9f4bc" title="Returns a Parameter instance which can be used to retrieve the parsed value." alt="" coords="406,133,657,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="281,107,403,128,402,134,280,112"/>
+</map>

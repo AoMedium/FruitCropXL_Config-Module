@@ -1,0 +1,89 @@
+<map id="io.github.fruitcropxl.config.params.ParamCategory.getParameter" name="io.github.fruitcropxl.config.params.ParamCategory.getParameter">
+<area shape="rect" id="Node000001" title="Get generic Parameter with the given key." alt="" coords="1472,897,1723,937"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a083b9f85f2c96a5ca12ebbd968a75a67.html#a083b9f85f2c96a5ca12ebbd968a75a67" title=" " alt="" coords="773,784,1023,824"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1539,895,1483,873,1423,856,1319,836,1213,823,1024,809,1024,804,1214,817,1320,831,1425,851,1485,868,1540,890"/>
+<area shape="rect" id="Node000007" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_ac64ba4716a6f5a7cbbe77b5b8154dd7d.html#ac64ba4716a6f5a7cbbe77b5b8154dd7d" title=" " alt="" coords="773,357,1023,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1558,891,924,400,927,396,1561,887"/>
+<area shape="rect" id="Node000027" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a9b2ec8a2beb1fd75ac2fb60a9389ac84.html#a9b2ec8a2beb1fd75ac2fb60a9389ac84" title=" " alt="" coords="1105,929,1424,969"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="1458,933,1424,937,1424,931,1458,928"/>
+<area shape="rect" id="Node000028" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_aa90095e4111da0b9c60d098de4a89a4f.html#aa90095e4111da0b9c60d098de4a89a4f" title=" " alt="" coords="739,972,1057,1012"/>
+<area shape="poly" id="edge49_Node000001_Node000028" title=" " alt="" coords="1543,945,1487,967,1425,984,1331,998,1235,1005,1057,1005,1057,1000,1234,999,1330,992,1423,979,1485,962,1541,940"/>
+<area shape="rect" id="Node000037" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a51ea686cc7549745dfb4a69fc64d4230.html#a51ea686cc7549745dfb4a69fc64d4230" title=" " alt="" coords="1139,865,1390,905"/>
+<area shape="poly" id="edge40_Node000001_Node000037" title=" " alt="" coords="1458,907,1390,900,1390,895,1458,901"/>
+<area shape="rect" id="Node000038" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_adba5c6502d7ba3f85b1ea6645a9300fa.html#adba5c6502d7ba3f85b1ea6645a9300fa" title="Set parameter with the given key to the provided Parameter." alt="" coords="773,1157,1023,1197"/>
+<area shape="poly" id="edge42_Node000001_Node000038" title=" " alt="" coords="1552,947,1492,980,1425,1012,1305,1059,1182,1100,978,1160,976,1155,1181,1095,1303,1054,1423,1007,1490,975,1549,942"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a74555272c6dec5c9c88d18e876d875f5.html#a74555272c6dec5c9c88d18e876d875f5" title=" " alt="" coords="372,773,691,813"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,803,691,801,691,795,759,797"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a1016e54e70a0e99488e485d5084b9073.html#a1016e54e70a0e99488e485d5084b9073" title=" " alt="" coords="372,837,691,877"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="759,827,670,840,669,835,759,822"/>
+<area shape="rect" id="Node000005" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ae7921bf95e6451354dc2960de705971d.html#ae7921bf95e6451354dc2960de705971d" title="Gets the category with the given key." alt="" coords="372,645,691,685"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="852,779,777,738,690,700,650,688,651,683,692,695,780,733,854,774"/>
+<area shape="rect" id="Node000006" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a5b66766ba5158506c14486e06a93d705.html#a5b66766ba5158506c14486e06a93d705" title="Sets the category context for the CategoryStore." alt="" coords="5,453,324,493"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="376,640,370,635,356,620,349,603,345,570,342,537,335,522,322,507,305,496,308,491,326,503,340,519,347,536,351,569,354,602,361,617,374,631,379,636"/>
+<area shape="rect" id="Node000008" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a67390ee277336b6472d8ec095298f722.html#a67390ee277336b6472d8ec095298f722" title=" " alt="" coords="372,709,691,749"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="888,411,862,474,821,552,795,593,765,633,730,669,692,700,671,712,668,707,689,695,727,665,761,629,791,590,817,550,857,472,883,409"/>
+<area shape="rect" id="Node000017" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_af59b1d417f8e3f90df5148c96b8faf43.html#af59b1d417f8e3f90df5148c96b8faf43" title=" " alt="" coords="406,5,657,45"/>
+<area shape="poly" id="edge16_Node000007_Node000017" title=" " alt="" coords="883,345,857,283,817,205,791,164,761,125,727,90,689,60,656,43,658,38,692,55,730,86,765,122,795,161,821,202,862,281,888,343"/>
+<area shape="rect" id="Node000018" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ac6258c35307415d9c7adeaeeab4095fb.html#ac6258c35307415d9c7adeaeeab4095fb" title=" " alt="" coords="372,581,691,621"/>
+<area shape="poly" id="edge17_Node000007_Node000018" title=" " alt="" coords="875,410,843,448,800,492,749,535,692,572,663,584,661,579,689,567,746,531,796,488,839,444,871,406"/>
+<area shape="rect" id="Node000019" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_aaf8155a895956c8317c04e6a7c4cc516.html#aaf8155a895956c8317c04e6a7c4cc516" title=" " alt="" coords="406,69,657,109"/>
+<area shape="poly" id="edge18_Node000007_Node000019" title=" " alt="" coords="878,347,849,296,807,235,753,174,722,147,689,124,656,108,658,103,692,119,726,143,757,170,811,232,854,293,883,344"/>
+<area shape="rect" id="Node000020" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a9b67eef8c274baaee12610d89da6ecc8.html#a9b67eef8c274baaee12610d89da6ecc8" title=" " alt="" coords="406,133,657,173"/>
+<area shape="poly" id="edge19_Node000007_Node000020" title=" " alt="" coords="871,348,839,311,796,267,746,223,689,188,656,174,658,169,692,183,749,219,800,263,843,307,875,345"/>
+<area shape="rect" id="Node000021" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a082992e09866698509ecf8d4852be693.html#a082992e09866698509ecf8d4852be693" title=" " alt="" coords="406,197,657,237"/>
+<area shape="poly" id="edge20_Node000007_Node000021" title=" " alt="" coords="859,351,783,300,737,274,690,252,653,240,655,235,692,247,740,269,786,295,862,347"/>
+<area shape="rect" id="Node000022" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a1bbc211bcd60c919616d9845d292b472.html#a1bbc211bcd60c919616d9845d292b472" title=" " alt="" coords="406,261,657,301"/>
+<area shape="poly" id="edge21_Node000007_Node000022" title=" " alt="" coords="824,356,690,316,639,304,640,299,691,311,825,350"/>
+<area shape="rect" id="Node000023" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a90e58112bcc533598bb9f1a73e9d4d5d.html#a90e58112bcc533598bb9f1a73e9d4d5d" title=" " alt="" coords="406,325,657,365"/>
+<area shape="poly" id="edge22_Node000007_Node000023" title=" " alt="" coords="758,368,657,359,657,354,759,363"/>
+<area shape="rect" id="Node000024" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_a5dcc6f9b68264d7527c4934201912002.html#a5dcc6f9b68264d7527c4934201912002" title=" " alt="" coords="406,389,657,429"/>
+<area shape="poly" id="edge23_Node000007_Node000024" title=" " alt="" coords="759,392,657,401,657,396,758,387"/>
+<area shape="rect" id="Node000025" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_aee6721bdcb2d4ff2ec2142f2845a0065.html#aee6721bdcb2d4ff2ec2142f2845a0065" title=" " alt="" coords="406,453,657,493"/>
+<area shape="poly" id="edge24_Node000007_Node000025" title=" " alt="" coords="825,404,691,444,640,456,639,451,690,439,824,399"/>
+<area shape="rect" id="Node000026" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_ae35b663298256f3b048b4e5f81ca33f3.html#ae35b663298256f3b048b4e5f81ca33f3" title=" " alt="" coords="406,517,657,557"/>
+<area shape="poly" id="edge25_Node000007_Node000026" title=" " alt="" coords="862,408,786,459,740,486,692,508,655,520,653,515,690,503,737,481,783,455,859,404"/>
+<area shape="rect" id="Node000009" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_af80f30c0abf379359b59730fd50573ba.html#af80f30c0abf379359b59730fd50573ba" title=" " alt="" coords="5,645,324,685"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="402,710,279,688,280,683,403,704"/>
+<area shape="rect" id="Node000010" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a3f20ca6dad620b86d619f5f913d54c1b.html#a3f20ca6dad620b86d619f5f913d54c1b" title=" " alt="" coords="5,709,324,749"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="358,732,324,732,324,727,358,727"/>
+<area shape="rect" id="Node000011" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a44f2652477aa97d9b03517bcf8d1d8b7.html#a44f2652477aa97d9b03517bcf8d1d8b7" title=" " alt="" coords="5,773,324,813"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="403,754,280,776,279,771,402,749"/>
+<area shape="rect" id="Node000012" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ad68a65330093c84406367b533bd742dc.html#ad68a65330093c84406367b533bd742dc" title=" " alt="" coords="5,837,324,877"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="384,757,374,763,358,778,350,794,342,812,326,828,302,840,300,835,322,823,338,808,346,792,354,775,370,759,382,753"/>
+<area shape="rect" id="Node000013" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a1640aa8fbd2902ddd7341ed39783eb1e.html#a1640aa8fbd2902ddd7341ed39783eb1e" title=" " alt="" coords="5,901,324,941"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="379,759,374,763,361,778,354,793,351,826,347,859,340,876,326,891,308,903,305,899,322,887,335,873,342,858,345,825,349,792,356,775,370,759,376,755"/>
+<area shape="rect" id="Node000014" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a33d6cd04f1d908bfe44d61824e8a9aed.html#a33d6cd04f1d908bfe44d61824e8a9aed" title=" " alt="" coords="5,965,324,1005"/>
+<area shape="poly" id="edge13_Node000008_Node000014" title=" " alt="" coords="378,760,374,763,357,786,349,809,348,833,351,857,353,882,352,907,344,931,326,955,310,967,307,963,322,951,339,929,347,906,348,882,345,858,343,833,344,808,352,783,370,760,374,756"/>
+<area shape="rect" id="Node000015" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ac1c0346a1e128fce0e74842c375fff39.html#ac1c0346a1e128fce0e74842c375fff39" title=" " alt="" coords="5,517,324,557"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="376,704,370,699,356,684,349,667,345,634,342,601,335,586,322,571,305,560,308,555,326,567,340,583,347,600,351,633,354,666,361,681,374,695,379,700"/>
+<area shape="rect" id="Node000016" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ab975d7039f5845cea6393d10c729989a.html#ab975d7039f5845cea6393d10c729989a" title=" " alt="" coords="5,581,324,621"/>
+<area shape="poly" id="edge15_Node000008_Node000016" title=" " alt="" coords="382,706,370,699,354,684,346,666,338,650,322,636,300,624,302,619,326,631,342,647,350,664,358,680,374,695,384,701"/>
+<area shape="poly" id="edge27_Node000027_Node000028" title=" " alt="" coords="1092,972,1058,976,1058,971,1092,967"/>
+<area shape="poly" id="edge28_Node000028_Node000003" title=" " alt="" coords="867,964,791,894,742,858,690,828,659,816,661,811,692,823,745,853,795,890,871,960"/>
+<area shape="poly" id="edge29_Node000028_Node000004" title=" " alt="" coords="850,967,776,928,690,892,649,880,650,875,692,887,778,924,853,963"/>
+<area shape="poly" id="edge30_Node000028_Node000008" title=" " alt="" coords="861,965,801,908,737,838,723,816,715,797,706,780,689,763,668,752,671,747,692,759,711,776,720,794,728,813,741,834,805,904,865,961"/>
+<area shape="poly" id="edge31_Node000028_Node000018" title=" " alt="" coords="855,966,794,911,762,876,736,837,724,808,719,780,720,728,720,705,717,682,708,659,689,635,674,624,677,619,693,631,712,656,722,680,726,704,725,729,724,779,729,806,741,835,767,873,797,907,859,962"/>
+<area shape="rect" id="Node000029" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_adcd3d5883367682eb411efd5c94b3cf1.html#adcd3d5883367682eb411efd5c94b3cf1" title=" " alt="" coords="372,965,691,1005"/>
+<area shape="poly" id="edge32_Node000028_Node000029" title=" " alt="" coords="725,992,691,991,691,986,725,986"/>
+<area shape="rect" id="Node000030" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_aa919e1da5add99d3dab6a7fec5bbe311.html#aa919e1da5add99d3dab6a7fec5bbe311" title=" " alt="" coords="372,901,691,941"/>
+<area shape="poly" id="edge33_Node000028_Node000030" title=" " alt="" coords="779,972,636,944,637,939,780,967"/>
+<area shape="rect" id="Node000031" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_afb87b945d5dcfe049b62d46c6074d040.html#afb87b945d5dcfe049b62d46c6074d040" title=" " alt="" coords="372,1221,691,1261"/>
+<area shape="poly" id="edge34_Node000028_Node000031" title=" " alt="" coords="865,1023,806,1079,741,1147,728,1165,719,1182,710,1197,692,1212,669,1224,666,1219,689,1207,706,1193,715,1179,723,1163,737,1144,802,1075,862,1019"/>
+<area shape="rect" id="Node000032" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a854e0a86f310abea76cbea37e5c50b11.html#a854e0a86f310abea76cbea37e5c50b11" title=" " alt="" coords="372,1285,691,1325"/>
+<area shape="poly" id="edge35_Node000028_Node000032" title=" " alt="" coords="860,1023,799,1077,768,1111,741,1147,731,1165,726,1182,722,1214,715,1245,707,1260,692,1275,675,1287,672,1283,689,1271,702,1257,711,1243,717,1213,721,1181,726,1163,736,1144,764,1107,796,1073,856,1019"/>
+<area shape="rect" id="Node000033" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ab2304389072647ed89dc005d2307f0d2.html#ab2304389072647ed89dc005d2307f0d2" title=" " alt="" coords="372,1349,691,1389"/>
+<area shape="poly" id="edge36_Node000028_Node000033" title=" " alt="" coords="858,1022,797,1076,767,1110,741,1147,729,1174,724,1199,725,1247,725,1270,721,1293,711,1316,693,1339,677,1351,674,1347,689,1335,707,1313,716,1292,720,1270,719,1247,719,1199,724,1172,736,1144,762,1106,793,1072,855,1018"/>
+<area shape="rect" id="Node000034" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a5d46ff214778261fd0a44b708ece4ed3.html#a5d46ff214778261fd0a44b708ece4ed3" title=" " alt="" coords="372,1029,691,1069"/>
+<area shape="poly" id="edge37_Node000028_Node000034" title=" " alt="" coords="756,1017,660,1032,659,1027,756,1012"/>
+<area shape="rect" id="Node000035" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a50a9153ee46f3c8fbed477aec7389707.html#a50a9153ee46f3c8fbed477aec7389707" title=" " alt="" coords="372,1093,691,1133"/>
+<area shape="poly" id="edge38_Node000028_Node000035" title=" " alt="" coords="846,1020,774,1053,691,1084,647,1096,646,1091,690,1079,772,1048,844,1015"/>
+<area shape="rect" id="Node000036" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_ad2c01a6b80b009f853d52f10e5dcc977.html#ad2c01a6b80b009f853d52f10e5dcc977" title=" " alt="" coords="372,1157,691,1197"/>
+<area shape="poly" id="edge39_Node000028_Node000036" title=" " alt="" coords="868,1023,792,1087,744,1120,692,1148,659,1160,657,1155,690,1143,741,1115,789,1083,865,1019"/>
+<area shape="poly" id="edge41_Node000037_Node000030" title=" " alt="" coords="1125,895,691,916,691,911,1125,889"/>
+<area shape="poly" id="edge43_Node000038_Node000031" title=" " alt="" coords="770,1202,647,1224,646,1219,769,1197"/>
+<area shape="poly" id="edge44_Node000038_Node000032" title=" " alt="" coords="850,1206,776,1242,692,1276,649,1288,647,1283,690,1271,774,1237,847,1201"/>
+<area shape="poly" id="edge45_Node000038_Node000033" title=" " alt="" coords="869,1209,793,1276,744,1311,692,1340,660,1352,658,1347,690,1335,741,1306,790,1272,866,1205"/>
+<area shape="poly" id="edge46_Node000038_Node000034" title=" " alt="" coords="847,1153,774,1117,690,1084,647,1072,649,1067,692,1079,776,1113,850,1149"/>
+<area shape="poly" id="edge47_Node000038_Node000035" title=" " alt="" coords="769,1158,646,1136,647,1131,770,1152"/>
+<area shape="poly" id="edge48_Node000038_Node000036" title=" " alt="" coords="759,1180,691,1180,691,1175,759,1175"/>
+</map>

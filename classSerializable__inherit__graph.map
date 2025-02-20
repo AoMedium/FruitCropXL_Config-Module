@@ -1,0 +1,13 @@
+<map id="Serializable" name="Serializable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,5,420,71"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1Config.html" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="5,119,195,379"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,62,263,87,210,121,196,132,193,128,206,117,261,82,316,57"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1ParamStructure.html" title="Represents a structure found in ParamGroups that store parameters." alt="" coords="219,199,530,299"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,85,377,198,372,198,372,85"/>
+<area shape="rect" id="Node000006" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1util_1_1KeyElement.html" title="Represents an element which contains a key." alt="" coords="554,199,769,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="434,58,489,83,544,117,589,155,626,197,622,200,585,159,541,121,486,88,431,63"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore.html" title="Represents the collection of categories in a document." alt="" coords="51,427,362,907"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="352,312,306,427,301,425,347,310"/>
+<area shape="rect" id="Node000005" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1TableStore.html" title="Represents the collection of tables in a document." alt="" coords="386,577,697,757"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="402,310,508,575,503,577,397,312"/>
+</map>

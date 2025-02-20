@@ -1,4 +1,36 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classfspm_1_1config_1_1adapters_1_1ConfigAdapter.html" title="ConfigAdapter implementations are responsible for parsing different file types into ParamGroups." alt="" coords="5,5,209,47"/>
-<area shape="rect" id="node2" href="$classfspm_1_1config_1_1adapters_1_1JsonFileReader.html" title="File reader to parse JSON config files to fspm.config.Config." alt="" coords="257,5,448,47"/>
+<area shape="rect" id="Node000000" href="$classCellParamAccessor.html" title=" " alt="" coords="238,5,385,31"/>
+<area shape="rect" id="Node000001" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamTable.html" title="Stores Parameters in a tabular format as rows and columns (parameter key)." alt="" coords="553,41,803,81"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="399,25,553,43,552,49,398,31"/>
+<area shape="rect" id="Node000002" href="$classKeyElement.html" title=" " alt="" coords="261,144,361,169"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="362,137,518,90,569,78,571,83,519,95,363,142"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory.html" title="Stores Parameters that belong to a common category." alt="" coords="553,233,803,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,171,519,218,571,230,569,235,518,223,362,176"/>
+<area shape="rect" id="Node000012" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1Parameter.html" title="Parameter represents variables that can be stored as Java data types." alt="" coords="553,105,803,145"/>
+<area shape="poly" id="edge4_Node000002_Node000012" title=" " alt="" coords="375,149,552,133,553,138,375,154"/>
+<area shape="rect" id="Node000013" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1ParamGroup.html" title="Parameter configuration class for storing parameter categories." alt="" coords="529,169,827,209"/>
+<area shape="poly" id="edge5_Node000002_Node000013" title=" " alt="" coords="375,159,529,173,528,178,375,165"/>
+<area shape="rect" id="Node000014" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" title="Represents and encapsulates access for the document&#45;category&#45;name format." alt="" coords="885,137,1184,177"/>
+<area shape="poly" id="edge6_Node000013_Node000014" title=" " alt="" coords="841,171,885,167,886,173,841,177"/>
+<area shape="rect" id="Node000015" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format." alt="" coords="885,201,1184,241"/>
+<area shape="poly" id="edge7_Node000013_Node000015" title=" " alt="" coords="841,201,886,205,885,210,841,206"/>
+<area shape="rect" id="Node000004" href="$classKeyParamAccessor.html" title=" " alt="" coords="239,243,384,268"/>
+<area shape="poly" id="edge8_Node000004_Node000003" title=" " alt="" coords="398,252,553,251,553,256,398,257"/>
+<area shape="rect" id="Node000005" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore.html" title="Represents the collection of categories in a document." alt="" coords="519,297,837,337"/>
+<area shape="poly" id="edge9_Node000004_Node000005" title=" " alt="" coords="398,267,558,294,557,299,397,272"/>
+<area shape="rect" id="Node000008" href="$classSerializable.html" title=" " alt="" coords="5,429,104,455"/>
+<area shape="rect" id="Node000009" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1Config.html" title="Configuration class for storing input configurations to be used in simulations." alt="" coords="213,422,410,462"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="118,439,212,439,212,445,118,445"/>
+<area shape="rect" id="Node000006" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1ParamStructure.html" title="Represents a structure found in ParamGroups that store parameters." alt="" coords="152,358,471,398"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="103,422,151,407,201,395,203,401,153,413,104,427"/>
+<area shape="rect" id="Node000010" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1util_1_1KeyElement.html" title="Represents an element which contains a key." alt="" coords="200,486,423,526"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="104,457,153,471,203,483,201,489,151,477,103,462"/>
+<area shape="poly" id="edge12_Node000006_Node000005" title=" " alt="" coords="445,353,557,334,558,339,446,358"/>
+<area shape="rect" id="Node000007" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1TableStore.html" title="Represents the collection of tables in a document." alt="" coords="519,361,837,401"/>
+<area shape="poly" id="edge13_Node000006_Node000007" title=" " alt="" coords="484,377,518,377,518,382,484,382"/>
+<area shape="rect" id="Node000016" href="$classTypedCellParamAccessor.html" title=" " alt="" coords="219,55,403,80"/>
+<area shape="poly" id="edge15_Node000016_Node000001" title=" " alt="" coords="417,63,553,60,553,66,417,68"/>
+<area shape="rect" id="Node000011" href="$classTypedKeyParamAccessor.html" title=" " alt="" coords="220,297,403,323"/>
+<area shape="poly" id="edge16_Node000011_Node000003" title=" " alt="" coords="406,293,552,270,553,275,407,298"/>
+<area shape="poly" id="edge17_Node000011_Node000005" title=" " alt="" coords="417,309,519,311,519,316,416,315"/>
 </map>

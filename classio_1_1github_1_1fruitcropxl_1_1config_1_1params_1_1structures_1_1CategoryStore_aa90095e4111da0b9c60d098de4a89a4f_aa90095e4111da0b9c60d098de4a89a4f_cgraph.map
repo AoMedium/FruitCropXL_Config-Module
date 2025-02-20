@@ -1,0 +1,8 @@
+<map id="io.github.fruitcropxl.config.params.structures.CategoryStore.validateFlattenedAccess" name="io.github.fruitcropxl.config.params.structures.CategoryStore.validateFlattenedAccess">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,324,75"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a9b2ec8a2beb1fd75ac2fb60a9389ac84.html#a9b2ec8a2beb1fd75ac2fb60a9389ac84" title=" " alt="" coords="372,5,691,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,39,358,37,358,42,324,45"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1ParamCategory_ad96823e990040d8e36517b130dd87b74.html#ad96823e990040d8e36517b130dd87b74" title="Get generic Parameter with the given key." alt="" coords="739,35,989,75"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="324,54,372,55,691,55,725,54,725,60,691,60,372,60,324,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="691,37,725,40,724,45,691,42"/>
+</map>

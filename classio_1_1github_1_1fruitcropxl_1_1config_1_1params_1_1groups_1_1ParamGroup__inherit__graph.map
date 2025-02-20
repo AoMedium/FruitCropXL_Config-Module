@@ -1,0 +1,9 @@
+<map id="io.github.fruitcropxl.config.params.groups.ParamGroup" name="io.github.fruitcropxl.config.params.groups.ParamGroup">
+<area shape="rect" id="Node000001" title="Parameter configuration class for storing parameter categories." alt="" coords="163,119,453,199"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup.html" title="Represents and encapsulates access for the document&#45;category&#45;name format." alt="" coords="5,274,296,414"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,211,212,275,208,272,263,208"/>
+<area shape="rect" id="Node000004" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentHybridCategoryNameGroup.html" title="Represents and encapsulates access for the document&#45;hybrid&#45;category&#45;name format." alt="" coords="320,247,611,441"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="352,207,385,245,380,248,348,211"/>
+<area shape="rect" id="Node000002" href="$classKeyElement.html" title=" " alt="" coords="262,5,354,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,85,311,118,305,118,305,85"/>
+</map>

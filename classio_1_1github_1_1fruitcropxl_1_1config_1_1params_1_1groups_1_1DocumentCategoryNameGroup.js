@@ -1,0 +1,8 @@
+var classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup =
+[
+    [ "DocumentCategoryNameGroup", "classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a63a6175d03d78c85dc91d8860b80b9c7.html#a63a6175d03d78c85dc91d8860b80b9c7", null ],
+    [ "getCategoryStore", "classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a4d5237a30e12a5b44ee4882325e79f55.html#a4d5237a30e12a5b44ee4882325e79f55", null ],
+    [ "parse", "classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a132851dce08ae8611fe137a59b9ac966.html#a132851dce08ae8611fe137a59b9ac966", null ],
+    [ "toString", "classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_a3f123af7f18d5164ddd9f66bdac3e499.html#a3f123af7f18d5164ddd9f66bdac3e499", null ],
+    [ "categoryStore", "classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1DocumentCategoryNameGroup_ae7096f5cf0100046eb7bf10dbe4fded3.html#ae7096f5cf0100046eb7bf10dbe4fded3", null ]
+];

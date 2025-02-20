@@ -1,0 +1,5 @@
+<map id="io.github.fruitcropxl.config.adapters.JsonFileReader.parse" name="io.github.fruitcropxl.config.adapters.JsonFileReader.parse">
+<area shape="rect" id="Node000001" title="Parses and returns a ParamGroup with the parameter contents of the provided file." alt="" coords="5,5,264,45"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1adapters_1_1JsonFileReader_ae9ec1a66eacccf01e131a6bb44d1bb27.html#ae9ec1a66eacccf01e131a6bb44d1bb27" title="Helper function for getting root/tree node from a JSON file." alt="" coords="312,5,571,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,23,298,23,298,28,264,28"/>
+</map>

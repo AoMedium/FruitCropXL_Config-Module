@@ -1,0 +1,9 @@
+<map id="io.github.fruitcropxl.config.params.ParamCategory" name="io.github.fruitcropxl.config.params.ParamCategory">
+<area shape="rect" id="Node000001" title="Stores Parameters that belong to a common category." alt="" coords="69,119,311,479"/>
+<area shape="rect" id="Node000002" href="$classKeyElement.html" title=" " alt="" coords="5,5,97,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,82,96,117,92,120,72,84"/>
+<area shape="rect" id="Node000003" href="$classKeyParamAccessor.html" title=" " alt="" coords="121,5,259,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,85,193,119,187,119,187,85"/>
+<area shape="rect" id="Node000004" href="$classTypedKeyParamAccessor.html" title=" " alt="" coords="283,5,457,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,83,314,124,309,121,338,80"/>
+</map>

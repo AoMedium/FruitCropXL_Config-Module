@@ -1,0 +1,7 @@
+<map id="io.github.fruitcropxl.config.Config.getInstance" name="io.github.fruitcropxl.config.Config.getInstance">
+<area shape="rect" id="Node000001" title="Gets the singleton instance of the simulation io.github.fruitcropxl.config.Config." alt="" coords="5,5,203,45"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1Config_a3bf0ba06ec419cd1c882710dfc0389df.html#a3bf0ba06ec419cd1c882710dfc0389df" title="Class constructor." alt="" coords="251,5,448,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,23,237,23,237,28,203,28"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1Config_a2e2f7b7b76d9ac298b0ca63a1d234d5a.html#a2e2f7b7b76d9ac298b0ca63a1d234d5a" title="Reset the Config Module by clearing all groups." alt="" coords="496,5,693,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,23,482,23,482,28,448,28"/>
+</map>

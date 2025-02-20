@@ -26,15 +26,15 @@ var NAVTREE =
 [
   [ "Fruit Crop Model - Config Module", "index.html", [
     [ "Packages", "namespaces.html", [
-      [ "Packages", "namespaces.html", "namespaces_dup" ]
+      [ "Package List", "namespaces.html", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ],
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
@@ -47,7 +47,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "ArrayTest_8java.html",
-""
+"classio_1_1github_1_1fruitcropxl_1_1config_1_1util_1_1exceptions_1_1KeyNotFoundException_aa1aac129cf29a9acc924807f338443ad.html#aa1aac129cf29a9acc924807f338443ad"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

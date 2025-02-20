@@ -1,0 +1,5 @@
+<map id="io.github.fruitcropxl.config.params.ParamFactory" name="io.github.fruitcropxl.config.params.ParamFactory">
+<area shape="rect" id="Node000001" title="ParamFactory creates instances of Parameters depending on the data type of the field being read." alt="" coords="5,133,248,233"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="65,5,189,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,71,129,117,124,117,124,71"/>
+</map>

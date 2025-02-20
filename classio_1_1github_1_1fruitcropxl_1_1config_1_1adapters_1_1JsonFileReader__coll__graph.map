@@ -1,0 +1,9 @@
+<map id="io.github.fruitcropxl.config.adapters.JsonFileReader" name="io.github.fruitcropxl.config.adapters.JsonFileReader">
+<area shape="rect" id="Node000001" title="File reader to parse JSON config files to io.github.fruitcropxl.config.Config." alt="" coords="111,296,361,416"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1adapters_1_1ConfigAdapter.html" title="ConfigAdapter implementations are responsible for parsing different file types into ParamGroups." alt="" coords="5,133,256,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,244,202,294,197,297,166,246"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,5,173,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,71,133,117,128,117,128,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="281,151,405,216"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,218,284,283,280,280,321,215"/>
+</map>

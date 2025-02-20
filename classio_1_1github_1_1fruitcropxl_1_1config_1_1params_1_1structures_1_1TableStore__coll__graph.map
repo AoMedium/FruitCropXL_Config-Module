@@ -1,0 +1,12 @@
+<map id="io.github.fruitcropxl.config.params.structures.TableStore" name="io.github.fruitcropxl.config.params.structures.TableStore">
+<area shape="rect" id="Node000001" title="Represents the collection of tables in a document." alt="" coords="209,296,520,456"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1ParamStructure.html" title="Represents a structure found in ParamGroups that store parameters." alt="" coords="5,133,316,233"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,241,282,294,278,298,222,245"/>
+<area shape="rect" id="Node000003" href="$classSerializable.html" title=" " alt="" coords="115,5,206,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,85,163,133,158,133,158,85"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,5,315,71"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="305,70,315,94,330,133,346,207,357,279,352,280,341,208,325,134,310,96,300,72"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="264,70,218,123,214,119,260,67"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="534,143,865,223"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="633,226,519,290,516,286,630,221"/>
+</map>

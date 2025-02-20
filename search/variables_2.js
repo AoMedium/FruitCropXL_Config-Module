@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['instance_285',['instance',['../classfspm_1_1config_1_1Config_a83fb779477ea3223d5a2d3c3a9851410.html#a83fb779477ea3223d5a2d3c3a9851410',1,'fspm::config::Config']]]
+  ['instance_0',['instance',['../classio_1_1github_1_1fruitcropxl_1_1config_1_1Config_a6ee57a84f5abff13d7d0a4ff65b01369.html#a6ee57a84f5abff13d7d0a4ff65b01369',1,'io::github::fruitcropxl::config::Config']]]
 ];

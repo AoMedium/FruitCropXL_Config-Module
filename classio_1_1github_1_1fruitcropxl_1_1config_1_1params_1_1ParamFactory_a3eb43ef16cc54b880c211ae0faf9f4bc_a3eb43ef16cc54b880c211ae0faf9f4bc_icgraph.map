@@ -1,0 +1,7 @@
+<map id="io.github.fruitcropxl.config.params.ParamFactory.parseParameter" name="io.github.fruitcropxl.config.params.ParamFactory.parseParameter">
+<area shape="rect" id="Node000001" title="Returns a Parameter instance which can be used to retrieve the parsed value." alt="" coords="372,37,623,77"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1CategoryStore_a0cffd72947c03484e7b5748b08526a9d.html#a0cffd72947c03484e7b5748b08526a9d" title=" " alt="" coords="5,5,324,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,47,324,43,324,38,358,41"/>
+<area shape="rect" id="Node000003" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1structures_1_1TableStore_ad22cd03b860508841fc02efb1e3aaef3.html#ad22cd03b860508841fc02efb1e3aaef3" title=" " alt="" coords="5,69,324,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,73,324,77,324,71,358,68"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="io.github.fruitcropxl.config.params.groups.DocumentCategoryNameGroup" name="io.github.fruitcropxl.config.params.groups.DocumentCategoryNameGroup">
+<area shape="rect" id="Node000001" title="Represents and encapsulates access for the document&#45;category&#45;name format." alt="" coords="172,263,463,403"/>
+<area shape="rect" id="Node000002" href="$classio_1_1github_1_1fruitcropxl_1_1config_1_1params_1_1groups_1_1ParamGroup.html" title="Parameter configuration class for storing parameter categories." alt="" coords="5,120,296,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,208,252,261,248,264,197,212"/>
+<area shape="rect" id="Node000003" href="$classKeyElement.html" title=" " alt="" coords="105,5,197,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,84,153,120,148,120,148,84"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="320,127,427,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,194,348,248,343,246,360,192"/>
+</map>

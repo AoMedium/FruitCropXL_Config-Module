@@ -1,0 +1,11 @@
+<map id="io.github.fruitcropxl.config.params.ParamTable" name="io.github.fruitcropxl.config.params.ParamTable">
+<area shape="rect" id="Node000001" title="Stores Parameters in a tabular format as rows and columns (parameter key)." alt="" coords="161,163,403,563"/>
+<area shape="rect" id="Node000002" href="$classKeyElement.html" title=" " alt="" coords="5,20,97,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,95,163,198,158,201,81,98"/>
+<area shape="rect" id="Node000003" href="$classCellParamAccessor.html" title=" " alt="" coords="122,20,261,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,98,226,162,221,163,202,99"/>
+<area shape="rect" id="Node000004" href="$classTypedCellParamAccessor.html" title=" " alt="" coords="285,20,461,85"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,99,343,163,338,162,357,98"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="485,5,732,100"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="562,102,418,237,414,233,558,98"/>
+</map>
